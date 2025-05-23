@@ -1,0 +1,9 @@
+STEP 8: for the colours, I used an array to create the colour scale, using the Colour Position and 
+Colour value parameters.
+
+i used green to contrast the blue used in the maps, it also looks nice with blue
+
+added another element, subheading under the graph to help make it easier to read 
+"Annual hydropower generation is measured in terawatt-hours (TWh)."
+
+I added an image of a diagram in case people don't know how it works

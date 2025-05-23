@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Plotly Interaction</title>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+    
+</head>
+<body>
+    <h1 class="mainHeading">Plotly Interaction</h1>
+
+    <!-- Add these buttons -->
+    <div style="margin-bottom: 1em;">
+        <button id="btn-morning">9AM–12PM</button>
+        <button id="btn-noon">12PM–3PM</button>
+        <button id="btn-afternoon">3PM–5PM</button>
+        <button id="btn-day">Whole Day</button>
+        
+    </div>
+
+    <!-- This is your chart -->
+    <div id="co2Chart" style="width: 100%; height: 400px;"></div>
+    <div id="splChart" style="width: 100%; height: 800px; margin-top: 20px;"></div>
+    <div id="taChart" style="width: 100%; height: 400px;"></div>
+    <div id="ppdChart" style="width: 100%; height: 400px;"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>

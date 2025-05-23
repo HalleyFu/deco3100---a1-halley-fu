@@ -1,0 +1,22 @@
+body{
+    width: 60%;
+    margin: auto;
+    background-color: rgb(220,220,220);
+}
+
+.mainHeading{
+    font-family: "Bebas Neue", sans-serif;
+    text-align: center;
+    
+}
+
+#choropleth{
+    position:relative;  
+}
+
+.subHeading{
+    margin:auto;
+    width:90%;
+    height:10%;
+    text-align: center;
+}

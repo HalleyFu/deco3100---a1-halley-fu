@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../studio/week 7"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../week 6"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "week 6 - Copy"
+	}
+}

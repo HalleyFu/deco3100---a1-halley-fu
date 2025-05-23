@@ -1,0 +1,15 @@
+body{
+    width:60%;
+    margin: auto;
+    background-color: rgb(220,220,220);
+}
+
+.mainHeading{
+    text-align: center;
+
+}
+
+#choropleth{
+    position:relative;
+    right: 200;
+}

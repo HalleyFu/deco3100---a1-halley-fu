@@ -1,0 +1,425 @@
+id,intakedate,Time,day,month,year,breedname,basecolour,Height (cm),weight, speciesname,animalage,sexname,location,Days in Care,animalage,final age (weeks),sorted,,,,Years in weeks,month in weeks,weeks,final age (weeks)
+15801,28/11/2009,00:00,28,11,2009,Domestic Short Hair,Tortie,9,9,Cat,9 years 2 months.,Female,Adoptable Cat Glass Colony,183,9 years 2 months.,476,year,9,month.,2,468,8,0,476
+15932,8/12/2009,00:00,8,12,2009,German Shepherd Dog/Mix,Tan,9,30,Dog,9 years 1 month.,Male,Adoptable Dogs,168,9 years 1 month.,472,year,9,month.,1,468,4,0,472
+28859,10/8/2012,00:00,10,8,2012,Shep Mix/Siberian Husky,Various,6,9,Dog,6 years 8 months.,Female,Adoptable Dogs,136,6 years 8 months.,344,year,6,month.,8,312,32,0,344
+30812,11/1/2013,00:00,11,1,2013,Domestic Short Hair,Dilute tortoiseshell,8,29,Cat,8 years 11 months.,Female,Stray Cats,157,8 years 11 months.,460,year,8,month.,11,416,44,0,460
+30812,11/1/2013,00:00,11,1,2013,Domestic Short Hair,Dilute tortoiseshell,18,11,Cat,8 years 11 months.,Female,Stray Cats,121,8 years 11 months.,460,year,8,month.,11,416,44,0,460
+31469,26/3/2013,00:00,26,3,2013,Basenji/Mix,Brown and White,11,14,Dog,5 years 11 months.,Female,Stray Dogs Beta,258,5 years 11 months.,304,year,5,month.,11,260,44,0,304
+31469,26/3/2013,00:00,26,3,2013,Basenji/Mix,Brown and White,19,5,Dog,5 years 11 months.,Female,Stray Dogs Beta,161,5 years 11 months.,304,year,5,month.,11,260,44,0,304
+40705,19/6/2015,00:00,19,6,2015,American Sable/American,Brown,16,29,House Rabbit,4 years 6 months.,Female,Lobby,80,4 years 6 months.,232,year,4,month.,6,208,24,0,232
+40706,19/6/2015,00:00,19,6,2015,American Sable/American,Brown,7,6,House Rabbit,4 years 6 months.,Female,Lobby,135,4 years 6 months.,232,year,4,month.,6,208,24,0,232
+46238,9/10/2016,00:00,9,10,2016,Heeler/Mix,Brown and Black,6,14,Dog,3 years 2 months.,Male,Special Care Dogs,196,3 years 2 months.,164,year,3,month.,2,156,8,0,164
+46238,9/10/2016,00:00,9,10,2016,Heeler/Mix,Brown and Black,6,19,Dog,3 years 2 months.,Male,Special Care Dogs,247,3 years 2 months.,164,year,3,month.,2,156,8,0,164
+46238,9/10/2016,00:00,9,10,2016,Heeler/Mix,Brown and Black,12,14,Dog,3 years 2 months.,Male,Special Care Dogs,141,3 years 2 months.,164,year,3,month.,2,156,8,0,164
+46437,26/10/2016,00:00,26,10,2016,Domestic Long Hair,Black,12,18,Cat,12 years 3 months.,Female,Stray Cats,146,12 years 3 months.,636,year,12,month.,3,624,12,0,636
+46437,26/10/2016,00:00,26,10,2016,Domestic Long Hair,Black,12,16,Cat,12 years 3 months.,Female,Stray Cats,242,12 years 3 months.,636,year,12,month.,3,624,12,0,636
+46693,21/11/2016,00:00,21,11,2016,Pitbull,White,20,5,Dog,4 years 1 month.,Male,Adoptable Dogs,87,4 years 1 month.,212,year,4,month.,1,208,4,0,212
+47120,11/1/2017,00:00,11,1,2017,Himalayan,Seal,15,19,Cat,5 years 0 months.,Female,Foster,42,5 years 0 months.,260,year,5,month.,0,260,0,0,260
+47120,11/1/2017,00:00,11,1,2017,Himalayan,Seal,20,10,Cat,5 years 0 months.,Female,Foster,245,5 years 0 months.,260,year,5,month.,0,260,0,0,260
+47146,17/1/2017,00:00,17,1,2017,Labrador Retriever/Affenpinscher,Black,16,26,Dog,3 years 10 months.,Female,Foster,179,3 years 10 months.,196,year,3,month.,10,156,40,0,196
+47146,17/1/2017,00:00,17,1,2017,Labrador Retriever/Affenpinscher,Black,16,19,Dog,3 years 10 months.,Female,Foster,292,3 years 10 months.,196,year,3,month.,10,156,40,0,196
+47156,17/1/2017,00:00,17,1,2017,American,Black,9,6,House Rabbit,3 years 10 months.,Male,Lobby,293,3 years 10 months.,196,year,3,month.,10,156,40,0,196
+47156,17/1/2017,00:00,17,1,2017,American,Black,15,16,House Rabbit,3 years 10 months.,Male,Lobby,192,3 years 10 months.,196,year,3,month.,10,156,40,0,196
+47156,17/1/2017,00:00,17,1,2017,American,Black,15,4,House Rabbit,3 years 10 months.,Male,Lobby,252,3 years 10 months.,196,year,3,month.,10,156,40,0,196
+47157,17/1/2017,00:00,17,1,2017,American,Black,6,11,House Rabbit,3 years 10 months.,Male,Lobby,134,3 years 10 months.,196,year,3,month.,10,156,40,0,196
+47157,17/1/2017,00:00,17,1,2017,American,Black,7,11,House Rabbit,3 years 10 months.,Male,Lobby,26,3 years 10 months.,196,year,3,month.,10,156,40,0,196
+47198,22/1/2017,00:00,22,1,2017,Domestic Short Hair,Grey and White,14,9,Cat,3 years 3 months.,Female,Adoptable Cat Glass Colony,52,3 years 3 months.,168,year,3,month.,3,156,12,0,168
+47198,22/1/2017,00:00,22,1,2017,Domestic Short Hair,Grey and White,14,23,Cat,3 years 3 months.,Female,Adoptable Cat Glass Colony,195,3 years 3 months.,168,year,3,month.,3,156,12,0,168
+47239,27/1/2017,00:00,27,1,2017,,Brown and Black,11,9,Dog,1 year 10 months.,Female,Foster,77,1 year 10 months.,92,year,1,month.,10,52,40,0,92
+47248,27/1/2017,00:00,27,1,2017,DMH/DSH,Black,14,10,Cat,9 years 11 months.,Male,Foster,250,9 years 11 months.,512,year,9,month.,11,468,44,0,512
+47248,27/1/2017,00:00,27,1,2017,DMH/DSH,Black,16,20,Cat,9 years 11 months.,Male,Foster,48,9 years 11 months.,512,year,9,month.,11,468,44,0,512
+47277,31/1/2017,00:00,31,1,2017,Domestic Short Hair,Brown and Black,12,30,Cat,3 years 10 months.,Female,Adoptable Cat Glass Colony,112,3 years 10 months.,196,year,3,month.,10,156,40,0,196
+47290,1/2/2017,00:00,1,2,2017,Domestic Short Hair,Torbie,18,23,Cat,3 years 4 months.,Female,Adoptable Cat Big Colony,186,3 years 4 months.,172,year,3,month.,4,156,16,0,172
+47290,1/2/2017,00:00,1,2,2017,Domestic Short Hair,Torbie,20,23,Cat,3 years 4 months.,Female,Adoptable Cat Big Colony,119,3 years 4 months.,172,year,3,month.,4,156,16,0,172
+47319,5/2/2017,00:00,5,2,2017,Pitbull,Black,7,27,Dog,3 years 2 months.,Female,Stray Dogs Theta,12,3 years 2 months.,164,year,3,month.,2,156,8,0,164
+47360,11/2/2017,00:00,11,2,2017,DSH/Unknown,Various,8,23,Cat,16 years 3 months.,Female,Office,149,16 years 3 months.,844,year,16,month.,3,832,12,0,844
+47360,11/2/2017,00:00,11,2,2017,DSH/Unknown,Various,11,23,Cat,16 years 3 months.,Female,Office,28,16 years 3 months.,844,year,16,month.,3,832,12,0,844
+47360,11/2/2017,00:00,11,2,2017,DSH/Unknown,Various,18,27,Cat,16 years 3 months.,Female,Office,170,16 years 3 months.,844,year,16,month.,3,832,12,0,844
+47395,13/2/2017,00:00,13,2,2017,Domestic Short Hair,Tortie,8,19,Cat,13 years 9 months.,Female,Adoptable Cat Big Colony,281,13 years 9 months.,712,year,13,month.,9,676,36,0,712
+47402,14/2/2017,00:00,14,2,2017,Shep Mix/Mix,Ruddy,5,15,Dog,4 years 9 months.,Female,Adoptable Dogs,220,4 years 9 months.,244,year,4,month.,9,208,36,0,244
+47402,14/2/2017,00:00,14,2,2017,Shep Mix/Mix,Ruddy,6,25,Dog,4 years 9 months.,Female,Adoptable Dogs,192,4 years 9 months.,244,year,4,month.,9,208,36,0,244
+47402,14/2/2017,00:00,14,2,2017,Shep Mix/Mix,Ruddy,8,16,Dog,4 years 9 months.,Female,Adoptable Dogs,190,4 years 9 months.,244,year,4,month.,9,208,36,0,244
+47414,16/2/2017,00:00,16,2,2017,Pitbull/Mix,Blue,6,18,Dog,6 years 10 months.,Male,Stray Dogs Beta,237,6 years 10 months.,352,year,6,month.,10,312,40,0,352
+47414,16/2/2017,00:00,16,2,2017,Pitbull/Mix,Blue,12,5,Dog,6 years 10 months.,Male,Stray Dogs Beta,77,6 years 10 months.,352,year,6,month.,10,312,40,0,352
+47414,16/2/2017,00:00,16,2,2017,Pitbull/Mix,Blue,15,7,Dog,6 years 10 months.,Male,Stray Dogs Beta,90,6 years 10 months.,352,year,6,month.,10,312,40,0,352
+47429,18/2/2017,00:00,18,2,2017,British Shorthair/Unknown,Grey,5,7,Cat,11 years 9 months.,Female,Office,242,11 years 9 months.,608,year,11,month.,9,572,36,0,608
+47429,18/2/2017,00:00,18,2,2017,British Shorthair/Unknown,Grey,12,15,Cat,11 years 9 months.,Female,Office,108,11 years 9 months.,608,year,11,month.,9,572,36,0,608
+47432,18/2/2017,00:00,18,2,2017,American,Black,8,5,House Rabbit,3 years 9 months.,Male,Lobby,248,3 years 9 months.,192,year,3,month.,9,156,36,0,192
+47432,18/2/2017,00:00,18,2,2017,American,Black,20,14,House Rabbit,3 years 9 months.,Male,Lobby,120,3 years 9 months.,192,year,3,month.,9,156,36,0,192
+47502,27/2/2017,00:00,27,2,2017,Pitbull/Mix,Grey and White,12,23,Dog,2 years 8 months.,Female,Stray Dogs Beta,192,2 years 8 months.,136,year,2,month.,8,104,32,0,136
+47502,27/2/2017,00:00,27,2,2017,Pitbull/Mix,Grey and White,20,22,Dog,2 years 8 months.,Female,Stray Dogs Beta,209,2 years 8 months.,136,year,2,month.,8,104,32,0,136
+47510,28/2/2017,00:00,28,2,2017,Domestic Short Hair,Brown and Black,15,23,Cat,2 years 8 months.,Female,Adoptable Cat Big Colony,79,2 years 8 months.,136,year,2,month.,8,104,32,0,136
+47511,28/2/2017,00:00,28,2,2017,DSH/Unknown,Grey,7,6,Cat,4 years 2 months.,Female,Adoptable Cat Small Colony,18,4 years 2 months.,216,year,4,month.,2,208,8,0,216
+47520,2/3/2017,00:00,2,3,2017,DSH/Unknown,Black and White,9,18,Cat,3 years 10 months.,Male,Adoptable Cat Big Colony,235,3 years 10 months.,196,year,3,month.,10,156,40,0,196
+47521,2/3/2017,00:00,2,3,2017,DSH/Unknown,Orange and White,20,27,Cat,3 years 10 months.,Male,Adoptable Cat Kennels,55,3 years 10 months.,196,year,3,month.,10,156,40,0,196
+47538,4/3/2017,00:00,4,3,2017,Labrador Retriever/Coonhound,Chocolate,13,10,Dog,2 years 10 months.,Male,Foster,274,2 years 10 months.,144,year,2,month.,10,104,40,0,144
+47539,4/3/2017,00:00,4,3,2017,DSH/Unknown,Grey and White,14,26,Cat,4 years 9 months.,Male,Adoptable Cat Glass Colony,66,4 years 9 months.,244,year,4,month.,9,208,36,0,244
+47540,4/3/2017,00:00,4,3,2017,DSH/Unknown,Black,10,19,Cat,1 year 11 months.,Male,Adoptable Cat Glass Colony,201,1 year 11 months.,96,year,1,month.,11,52,44,0,96
+47558,6/3/2017,00:00,6,3,2017,"Golden Retriever/Poodle, Standard",Golden,14,9,Dog,6 years 2 months.,Male,Adoptable Dogs,72,6 years 2 months.,320,year,6,month.,2,312,8,0,320
+47558,6/3/2017,00:00,6,3,2017,"Golden Retriever/Poodle, Standard",Golden,14,29,Dog,6 years 2 months.,Male,Adoptable Dogs,117,6 years 2 months.,320,year,6,month.,2,312,8,0,320
+47562,6/3/2017,00:00,6,3,2017,DSH/Unknown,White,13,8,Cat,6 years 8 months.,Male,Adoptable Cat Kennels,194,6 years 8 months.,344,year,6,month.,8,312,32,0,344
+47575,7/3/2017,00:00,7,3,2017,Mastiff,Brindle,5,12,Dog,4 years 4 months.,Female,Adoptable Dogs,267,4 years 4 months.,224,year,4,month.,4,208,16,0,224
+47575,7/3/2017,00:00,7,3,2017,Mastiff,Brindle,5,28,Dog,4 years 4 months.,Female,Adoptable Dogs,147,4 years 4 months.,224,year,4,month.,4,208,16,0,224
+47575,7/3/2017,00:00,7,3,2017,Mastiff,Brindle,5,24,Dog,4 years 4 months.,Female,Adoptable Dogs,243,4 years 4 months.,224,year,4,month.,4,208,16,0,224
+47575,7/3/2017,00:00,7,3,2017,Mastiff,Brindle,6,28,Dog,4 years 4 months.,Female,Adoptable Dogs,199,4 years 4 months.,224,year,4,month.,4,208,16,0,224
+47575,7/3/2017,00:00,7,3,2017,Mastiff,Brindle,20,19,Dog,4 years 4 months.,Female,Adoptable Dogs,48,4 years 4 months.,224,year,4,month.,4,208,16,0,224
+47575,7/3/2017,00:00,7,3,2017,Mastiff,Brindle,20,22,Dog,4 years 4 months.,Female,Adoptable Dogs,209,4 years 4 months.,224,year,4,month.,4,208,16,0,224
+47576,7/3/2017,00:00,7,3,2017,Pitbull,Tan,10,11,Dog,3 years 5 months.,Female,Adoptable Dogs,148,3 years 5 months.,176,year,3,month.,5,156,20,0,176
+47582,7/3/2017,00:00,7,3,2017,Pitbull/Mix,White,12,25,Dog,2 years 10 months.,Male,Stray Dogs Beta,178,2 years 10 months.,144,year,2,month.,10,104,40,0,144
+47591,9/3/2017,00:00,9,3,2017,Papillon,White,14,18,Dog,6 years 9 months.,Female,Foster,247,6 years 9 months.,348,year,6,month.,9,312,36,0,348
+47591,9/3/2017,00:00,9,3,2017,Papillon,White,18,24,Dog,6 years 9 months.,Female,Foster,269,6 years 9 months.,348,year,6,month.,9,312,36,0,348
+47595,9/3/2017,00:00,9,3,2017,Domestic Short Hair,Black and White,19,11,Cat,8 years 8 months.,Female,Adoptable Cat Big Colony,53,8 years 8 months.,448,year,8,month.,8,416,32,0,448
+47613,10/3/2017,00:00,10,3,2017,Beagle,Tricolour,7,15,Dog,4 years 8 months.,Male,Stray Dogs Beta,181,4 years 8 months.,240,year,4,month.,8,208,32,0,240
+47613,10/3/2017,00:00,10,3,2017,Beagle,Tricolour,15,7,Dog,4 years 8 months.,Male,Stray Dogs Beta,15,4 years 8 months.,240,year,4,month.,8,208,32,0,240
+47613,10/3/2017,00:00,10,3,2017,Beagle,Tricolour,16,16,Dog,4 years 8 months.,Male,Stray Dogs Beta,242,4 years 8 months.,240,year,4,month.,8,208,32,0,240
+47617,10/3/2017,00:00,10,3,2017,DSH/Unknown,Grey and White,8,22,Cat,5 years 8 months.,Female,Adoptable Cat Kennels,191,5 years 8 months.,292,year,5,month.,8,260,32,0,292
+47627,11/3/2017,00:00,11,3,2017,DSH/Unknown,Buff,15,8,Cat,1 year 9 months.,Male,Feline Nursery,22,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+47627,11/3/2017,00:00,11,3,2017,DSH/Unknown,Buff,17,16,Cat,1 year 9 months.,Male,Feline Nursery,152,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+47628,11/3/2017,00:00,11,3,2017,DSH/Unknown,Fawn,6,13,Cat,1 year 9 months.,Male,Adoptable Cat Kennels,149,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+47628,11/3/2017,00:00,11,3,2017,DSH/Unknown,Fawn,15,6,Cat,1 year 9 months.,Male,Adoptable Cat Kennels,252,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+47629,11/3/2017,00:00,11,3,2017,DSH/Unknown,Buff,7,10,Cat,1 year 9 months.,Male,Adoptable Cat Kennels,233,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+47629,11/3/2017,00:00,11,3,2017,DSH/Unknown,Buff,14,7,Cat,1 year 9 months.,Male,Adoptable Cat Kennels,146,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+47630,11/3/2017,00:00,11,3,2017,DSH/Unknown,Orange,6,14,Cat,1 year 9 months.,Male,Adoptable Cat Small Colony,24,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+47630,11/3/2017,00:00,11,3,2017,DSH/Unknown,Orange,9,13,Cat,1 year 9 months.,Male,Adoptable Cat Small Colony,100,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+47630,11/3/2017,00:00,11,3,2017,DSH/Unknown,Orange,18,15,Cat,1 year 9 months.,Male,Adoptable Cat Small Colony,203,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+47630,11/3/2017,00:00,11,3,2017,DSH/Unknown,Orange,20,21,Cat,1 year 9 months.,Male,Adoptable Cat Small Colony,189,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+47631,11/3/2017,00:00,11,3,2017,DLH/Unknown,Orange,12,19,Cat,1 year 9 months.,Male,Feline Nursery,32,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+47631,11/3/2017,00:00,11,3,2017,DLH/Unknown,Orange,13,23,Cat,1 year 9 months.,Male,Feline Nursery,226,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+47631,11/3/2017,00:00,11,3,2017,DLH/Unknown,Orange,20,27,Cat,1 year 9 months.,Male,Feline Nursery,150,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+47632,11/3/2017,00:00,11,3,2017,DSH/Unknown,Brown,7,11,Cat,1 year 9 months.,Male,Feline Nursery,211,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+47632,11/3/2017,00:00,11,3,2017,DSH/Unknown,Brown,12,5,Cat,1 year 9 months.,Male,Feline Nursery,15,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+47632,11/3/2017,00:00,11,3,2017,DSH/Unknown,Brown,19,5,Cat,1 year 9 months.,Male,Feline Nursery,60,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+47633,11/3/2017,00:00,11,3,2017,DSH/Unknown,Brown and Black,11,12,Cat,1 year 9 months.,Female,Feline Nursery,165,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+47633,11/3/2017,00:00,11,3,2017,DSH/Unknown,Brown and Black,20,19,Cat,1 year 9 months.,Female,Feline Nursery,216,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+47634,11/3/2017,00:00,11,3,2017,Domestic Short Hair,Seal,18,16,Cat,1 year 8 months.,Female,Feline Nursery,117,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47634,11/3/2017,00:00,11,3,2017,Domestic Short Hair,Seal,19,17,Cat,1 year 8 months.,Female,Feline Nursery,113,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47635,11/3/2017,00:00,11,3,2017,Domestic Short Hair,Black and White,9,16,Cat,1 year 8 months.,Male,Feline Nursery,141,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47635,11/3/2017,00:00,11,3,2017,Domestic Short Hair,Black and White,18,6,Cat,1 year 8 months.,Male,Feline Nursery,188,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47636,11/3/2017,00:00,11,3,2017,Domestic Short Hair,Black and White,6,14,Cat,1 year 8 months.,Male,Feline Nursery,272,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47636,11/3/2017,00:00,11,3,2017,Domestic Short Hair,Black and White,12,9,Cat,1 year 8 months.,Male,Feline Nursery,17,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47637,11/3/2017,00:00,11,3,2017,Domestic Short Hair,White,16,5,Cat,1 year 8 months.,Male,Feline Nursery,292,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47637,11/3/2017,00:00,11,3,2017,Domestic Short Hair,White,16,26,Cat,1 year 8 months.,Male,Feline Nursery,172,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47638,11/3/2017,00:00,11,3,2017,Domestic Short Hair,Black and White,7,30,Cat,4 years 8 months.,Female,Adoptable Cat Kennels,11,4 years 8 months.,240,year,4,month.,8,208,32,0,240
+47638,11/3/2017,00:00,11,3,2017,Domestic Short Hair,Black and White,17,18,Cat,4 years 8 months.,Female,Adoptable Cat Kennels,146,4 years 8 months.,240,year,4,month.,8,208,32,0,240
+47639,11/3/2017,00:00,11,3,2017,Labrador Retriever/Collie,Black,9,20,Dog,3 years 0 months.,Male,Adoptable Dogs,282,3 years 0 months.,156,year,3,month.,0,156,0,0,156
+47639,11/3/2017,00:00,11,3,2017,Labrador Retriever/Collie,Black,10,5,Dog,3 years 0 months.,Male,Adoptable Dogs,50,3 years 0 months.,156,year,3,month.,0,156,0,0,156
+47639,11/3/2017,00:00,11,3,2017,Labrador Retriever/Collie,Black,15,26,Dog,3 years 0 months.,Male,Adoptable Dogs,190,3 years 0 months.,156,year,3,month.,0,156,0,0,156
+47639,11/3/2017,00:00,11,3,2017,Labrador Retriever/Collie,Black,19,5,Dog,3 years 0 months.,Male,Adoptable Dogs,205,3 years 0 months.,156,year,3,month.,0,156,0,0,156
+47639,11/3/2017,00:00,11,3,2017,Labrador Retriever/Collie,Black,20,23,Dog,3 years 0 months.,Male,Adoptable Dogs,13,3 years 0 months.,156,year,3,month.,0,156,0,0,156
+47654,14/3/2017,00:00,14,3,2017,American Sable/American,Black,14,8,House Rabbit,2 years 8 months.,Female,Foster,297,2 years 8 months.,136,year,2,month.,8,104,32,0,136
+47659,14/3/2017,00:00,14,3,2017,Domestic Medium Hair,White,6,25,Cat,2 years 4 months.,Male,Adoptable Cat Kennels,299,2 years 4 months.,120,year,2,month.,4,104,16,0,120
+47661,15/3/2017,00:00,15,3,2017,Domestic Short Hair,Black,6,20,Cat,3 years 8 months.,Male,Adoptable Cat Big Colony,65,3 years 8 months.,188,year,3,month.,8,156,32,0,188
+47662,15/3/2017,00:00,15,3,2017,Shep Mix/Great Dane,Black and Brown,17,30,Dog,6 years 11 months.,Female,Adoptable Dogs,47,6 years 11 months.,356,year,6,month.,11,312,44,0,356
+47665,15/3/2017,00:00,15,3,2017,Bully Breed Mix/Mix,Black,12,13,Dog,5 years 4 months.,Female,Adoptable Dogs,20,5 years 4 months.,276,year,5,month.,4,260,16,0,276
+47665,15/3/2017,00:00,15,3,2017,Bully Breed Mix/Mix,Black,16,12,Dog,5 years 4 months.,Female,Adoptable Dogs,220,5 years 4 months.,276,year,5,month.,4,260,16,0,276
+47681,18/3/2017,00:00,18,3,2017,Siberian Husky/Affenpinscher,Black and White,17,6,Dog,3 years 11 months.,Male,Stray Dogs Beta,163,3 years 11 months.,200,year,3,month.,11,156,44,0,200
+47683,18/3/2017,00:00,18,3,2017,Hound/German Shorthaired Pointer,Red,19,16,Dog,3 years 1 month.,Male,Adoptable Dogs,187,3 years 1 month.,160,year,3,month.,1,156,4,0,160
+47684,18/3/2017,00:00,18,3,2017,Domestic Short Hair,Grey,6,16,Cat,16 years 8 months.,Female,Adoptable Cat Kennels,285,16 years 8 months.,864,year,16,month.,8,832,32,0,864
+47684,18/3/2017,00:00,18,3,2017,Domestic Short Hair,Grey,10,30,Cat,16 years 8 months.,Female,Adoptable Cat Kennels,134,16 years 8 months.,864,year,16,month.,8,832,32,0,864
+47684,18/3/2017,00:00,18,3,2017,Domestic Short Hair,Grey,11,22,Cat,16 years 8 months.,Female,Adoptable Cat Kennels,82,16 years 8 months.,864,year,16,month.,8,832,32,0,864
+47685,18/3/2017,00:00,18,3,2017,Domestic Short Hair,Tortie,11,28,Cat,18 years 2 months.,Female,Cat room B,263,18 years 2 months.,944,year,18,month.,2,936,8,0,944
+47685,18/3/2017,00:00,18,3,2017,Domestic Short Hair,Tortie,18,15,Cat,18 years 2 months.,Female,Cat room B,240,18 years 2 months.,944,year,18,month.,2,936,8,0,944
+47688,18/3/2017,00:00,18,3,2017,Domestic Short Hair,Grey and White,9,8,Cat,2 years 10 months.,Female,Adoptable Cat Big Colony,11,2 years 10 months.,144,year,2,month.,10,104,40,0,144
+47688,18/3/2017,00:00,18,3,2017,Domestic Short Hair,Grey and White,10,17,Cat,2 years 10 months.,Female,Adoptable Cat Big Colony,170,2 years 10 months.,144,year,2,month.,10,104,40,0,144
+47695,20/3/2017,00:00,20,3,2017,Labrador Retriever/German Shepherd Dog,Black,19,19,Dog,2 years 3 months.,Male,Adoptable Dogs,293,2 years 3 months.,116,year,2,month.,3,104,12,0,116
+47696,20/3/2017,00:00,20,3,2017,Domestic Short Hair,Grey and White,13,9,Cat,2 years 8 months.,Male,Adoptable Cat Kennels,73,2 years 8 months.,136,year,2,month.,8,104,32,0,136
+47697,21/3/2017,00:00,21,3,2017,Domestic Short Hair,Fawn,18,9,Cat,3 years 8 months.,Male,Adoptable Cat Big Colony,175,3 years 8 months.,188,year,3,month.,8,156,32,0,188
+47698,21/3/2017,00:00,21,3,2017,Domestic Short Hair,Black,11,12,Cat,4 years 10 months.,Female,Adoptable Cat Kennels,66,4 years 10 months.,248,year,4,month.,10,208,40,0,248
+47698,21/3/2017,00:00,21,3,2017,Domestic Short Hair,Black,16,10,Cat,4 years 10 months.,Female,Adoptable Cat Kennels,130,4 years 10 months.,248,year,4,month.,10,208,40,0,248
+47701,21/3/2017,00:00,21,3,2017,Domestic Medium Hair,Brown and Black,10,11,Cat,4 years 7 months.,Male,Stray Cats,12,4 years 7 months.,236,year,4,month.,7,208,28,0,236
+47702,21/3/2017,00:00,21,3,2017,Boxer/Shep Mix,Brindle,14,11,Dog,9 years 3 months.,Female,Adoptable Dogs,37,9 years 3 months.,480,year,9,month.,3,468,12,0,480
+47703,21/3/2017,00:00,21,3,2017,Domestic Long Hair,Black,11,8,Cat,2 years 8 months.,Female,Adoptable Cat Big Colony,93,2 years 8 months.,136,year,2,month.,8,104,32,0,136
+47703,21/3/2017,00:00,21,3,2017,Domestic Long Hair,Black,19,10,Cat,2 years 8 months.,Female,Adoptable Cat Big Colony,180,2 years 8 months.,136,year,2,month.,8,104,32,0,136
+47704,21/3/2017,00:00,21,3,2017,Chihuahua/Mix,Red,14,25,Dog,2 years 4 months.,Male,Adoptable Dogs,8,2 years 4 months.,120,year,2,month.,4,104,16,0,120
+47707,22/3/2017,00:00,22,3,2017,DMH/DSH,Black,7,16,Cat,1 year 8 months.,Male,Adoptable Cat Kennels,135,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47707,22/3/2017,00:00,22,3,2017,DMH/DSH,Black,9,19,Cat,1 year 8 months.,Male,Adoptable Cat Kennels,27,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47708,22/3/2017,00:00,22,3,2017,DMH/DSH,Black,7,13,Cat,1 year 8 months.,Male,Adoptable Cat Kennels,68,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47708,22/3/2017,00:00,22,3,2017,DMH/DSH,Black,11,20,Cat,1 year 8 months.,Male,Adoptable Cat Kennels,192,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47710,22/3/2017,00:00,22,3,2017,Pitbull,Blue,8,15,Dog,5 years 8 months.,Male,Stray Dogs Theta,252,5 years 8 months.,292,year,5,month.,8,260,32,0,292
+47712,23/3/2017,00:00,23,3,2017,Pomeranian/Siberian Husky,Silver,10,20,Dog,2 years 6 months.,Female,Dog room C,97,2 years 6 months.,128,year,2,month.,6,104,24,0,128
+47712,23/3/2017,00:00,23,3,2017,Pomeranian/Siberian Husky,Silver,16,29,Dog,2 years 6 months.,Female,Dog room C,97,2 years 6 months.,128,year,2,month.,6,104,24,0,128
+47712,23/3/2017,00:00,23,3,2017,Pomeranian/Siberian Husky,Silver,20,20,Dog,2 years 6 months.,Female,Dog room C,167,2 years 6 months.,128,year,2,month.,6,104,24,0,128
+47714,23/3/2017,00:00,23,3,2017,Pitbull,Grey,6,26,Dog,4 years 7 months.,Male,Adoptable Dogs,203,4 years 7 months.,236,year,4,month.,7,208,28,0,236
+47715,23/3/2017,00:00,23,3,2017,Pitbull/Mix,Brown,14,29,Dog,6 years 2 months.,Female,Office,34,6 years 2 months.,320,year,6,month.,2,312,8,0,320
+47715,23/3/2017,00:00,23,3,2017,Pitbull/Mix,Brown,17,8,Dog,6 years 2 months.,Female,Office,131,6 years 2 months.,320,year,6,month.,2,312,8,0,320
+47717,23/3/2017,00:00,23,3,2017,Pitbull/Mix,Black and White,6,23,Dog,4 years 8 months.,Female,Adoptable Dogs,151,4 years 8 months.,240,year,4,month.,8,208,32,0,240
+47717,23/3/2017,00:00,23,3,2017,Pitbull/Mix,Black and White,16,11,Dog,4 years 8 months.,Female,Adoptable Dogs,55,4 years 8 months.,240,year,4,month.,8,208,32,0,240
+47718,23/3/2017,00:00,23,3,2017,American Staffordshire Terrier,Black and White,14,30,Dog,6 years 8 months.,Male,Adoptable Dogs,55,6 years 8 months.,344,year,6,month.,8,312,32,0,344
+47718,23/3/2017,00:00,23,3,2017,American Staffordshire Terrier,Black and White,16,26,Dog,6 years 8 months.,Male,Adoptable Dogs,241,6 years 8 months.,344,year,6,month.,8,312,32,0,344
+47721,24/3/2017,00:00,24,3,2017,Terrier,Grey and White,5,25,Dog,2 years 8 months.,Male,Adoptable Dogs,117,2 years 8 months.,136,year,2,month.,8,104,32,0,136
+47721,24/3/2017,00:00,24,3,2017,Terrier,Grey and White,10,13,Dog,2 years 8 months.,Male,Adoptable Dogs,191,2 years 8 months.,136,year,2,month.,8,104,32,0,136
+47724,24/3/2017,00:00,24,3,2017,Rex,White,6,14,House Rabbit,6 years 1 month.,Female,Lobby,105,6 years 1 month.,316,year,6,month.,1,312,4,0,316
+47724,24/3/2017,00:00,24,3,2017,Rex,White,16,18,House Rabbit,6 years 1 month.,Female,Lobby,12,6 years 1 month.,316,year,6,month.,1,312,4,0,316
+47724,24/3/2017,00:00,24,3,2017,Rex,White,20,30,House Rabbit,6 years 1 month.,Female,Lobby,180,6 years 1 month.,316,year,6,month.,1,312,4,0,316
+47725,24/3/2017,00:00,24,3,2017,Lionhead/Jersey Wooly,White,18,6,House Rabbit,5 years 5 months.,Male,Lobby,261,5 years 5 months.,280,year,5,month.,5,260,20,0,280
+47727,24/3/2017,00:00,24,3,2017,Terrier/Beagle,Brown,5,29,Dog,9 years 8 months.,Male,Adoptable Dogs,263,9 years 8 months.,500,year,9,month.,8,468,32,0,500
+47727,24/3/2017,00:00,24,3,2017,Terrier/Beagle,Brown,12,10,Dog,9 years 8 months.,Male,Adoptable Dogs,191,9 years 8 months.,500,year,9,month.,8,468,32,0,500
+47728,24/3/2017,00:00,24,3,2017,Rat Terrier,Black and White,17,10,Dog,16 years 8 months.,Male,Adoptable Dogs,48,16 years 8 months.,864,year,16,month.,8,832,32,0,864
+47730,24/3/2017,00:00,24,3,2017,Domestic Short Hair,Orange and White,7,23,Cat,1 year 11 months.,Male,Adoptable Cat Kennels,171,1 year 11 months.,96,year,1,month.,11,52,44,0,96
+47733,24/3/2017,00:00,24,3,2017,Rex,Chocolate,8,26,House Rabbit,2 years 2 months.,Male,Lobby,147,2 years 2 months.,112,year,2,month.,2,104,8,0,112
+47735,24/3/2017,00:00,24,3,2017,American,Brown,5,19,House Rabbit,4 years 3 months.,Female,Lobby,92,4 years 3 months.,220,year,4,month.,3,208,12,0,220
+47736,24/3/2017,00:00,24,3,2017,Dutch,Brown,17,26,House Rabbit,4 years 3 months.,Male,Lobby,160,4 years 3 months.,220,year,4,month.,3,208,12,0,220
+47737,24/3/2017,00:00,24,3,2017,Rex,Chocolate,14,23,House Rabbit,4 years 3 months.,Female,Lobby,256,4 years 3 months.,220,year,4,month.,3,208,12,0,220
+47738,25/3/2017,00:00,25,3,2017,Australian Shepherd/Border Collie,Black and White,9,11,Dog,4 years 5 months.,Male,Stray Dogs Theta,62,4 years 5 months.,228,year,4,month.,5,208,20,0,228
+47740,25/3/2017,00:00,25,3,2017,Standard,White,9,22,Rat,4 years 6 months.,Male,Lobby,110,4 years 6 months.,232,year,4,month.,6,208,24,0,232
+47741,25/3/2017,00:00,25,3,2017,Standard,Grey and White,7,30,Rat,4 years 7 months.,Male,Lobby,208,4 years 7 months.,236,year,4,month.,7,208,28,0,236
+47742,25/3/2017,00:00,25,3,2017,Mastiff/Mix,Tan,19,8,Dog,2 years 7 months.,Male,Adoptable Dogs,267,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+47744,25/3/2017,00:00,25,3,2017,Pitbull/Labrador Retriever,Black,14,24,Dog,2 years 6 months.,Female,Adoptable Dogs,286,2 years 6 months.,128,year,2,month.,6,104,24,0,128
+47744,25/3/2017,00:00,25,3,2017,Pitbull/Labrador Retriever,Black,16,28,Dog,2 years 6 months.,Female,Adoptable Dogs,33,2 years 6 months.,128,year,2,month.,6,104,24,0,128
+47747,27/3/2017,00:00,27,3,2017,Border Collie/Mix,Black and White,6,6,Dog,2 years 9 months.,Female,Adoptable Dogs,29,2 years 9 months.,140,year,2,month.,9,104,36,0,140
+47747,27/3/2017,00:00,27,3,2017,Border Collie/Mix,Black and White,19,19,Dog,2 years 9 months.,Female,Adoptable Dogs,118,2 years 9 months.,140,year,2,month.,9,104,36,0,140
+47748,27/3/2017,00:00,27,3,2017,Border Collie/Mix,Brown,12,5,Dog,1 year 8 months.,Female,Adoptable Dogs,255,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47748,27/3/2017,00:00,27,3,2017,Border Collie/Mix,Brown,18,19,Dog,1 year 8 months.,Female,Adoptable Dogs,130,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47749,27/3/2017,00:00,27,3,2017,Border Collie/Mix,Brown and White,6,27,Dog,1 year 8 months.,Male,Adoptable Dogs,59,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47749,27/3/2017,00:00,27,3,2017,Border Collie/Mix,Brown and White,14,18,Dog,1 year 8 months.,Male,Adoptable Dogs,234,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47750,27/3/2017,00:00,27,3,2017,Border Collie/Mix,Brown and White,12,5,Dog,2 years 0 months.,Female,Stray Dogs Beta,142,2 years 0 months.,104,year,2,month.,0,104,0,0,104
+47750,27/3/2017,00:00,27,3,2017,Border Collie/Mix,Brown and White,16,9,Dog,2 years 0 months.,Female,Stray Dogs Beta,174,2 years 0 months.,104,year,2,month.,0,104,0,0,104
+47751,27/3/2017,00:00,27,3,2017,Border Collie/Mix,Brown and White,8,9,Dog,1 year 8 months.,Male,Adoptable Dogs,109,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47751,27/3/2017,00:00,27,3,2017,Border Collie/Mix,Brown and White,12,11,Dog,1 year 8 months.,Male,Adoptable Dogs,115,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47751,27/3/2017,00:00,27,3,2017,Border Collie/Mix,Brown and White,20,6,Dog,1 year 8 months.,Male,Adoptable Dogs,158,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47752,27/3/2017,00:00,27,3,2017,Border Collie/Mix,Black and White,5,27,Dog,1 year 8 months.,Male,Adoptable Dogs,295,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47752,27/3/2017,00:00,27,3,2017,Border Collie/Mix,Black and White,6,22,Dog,1 year 8 months.,Male,Adoptable Dogs,138,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47752,27/3/2017,00:00,27,3,2017,Border Collie/Mix,Black and White,8,20,Dog,1 year 8 months.,Male,Adoptable Dogs,286,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47753,27/3/2017,00:00,27,3,2017,Border Collie/Mix,Black and White,7,14,Dog,2 years 2 months.,Male,Dog room D,69,2 years 2 months.,112,year,2,month.,2,104,8,0,112
+47753,27/3/2017,00:00,27,3,2017,Border Collie/Mix,Black and White,10,30,Dog,2 years 2 months.,Male,Dog room D,46,2 years 2 months.,112,year,2,month.,2,104,8,0,112
+47753,27/3/2017,00:00,27,3,2017,Border Collie/Mix,Black and White,17,23,Dog,2 years 2 months.,Male,Dog room D,104,2 years 2 months.,112,year,2,month.,2,104,8,0,112
+47753,27/3/2017,00:00,27,3,2017,Border Collie/Mix,Black and White,19,11,Dog,2 years 2 months.,Male,Dog room D,77,2 years 2 months.,112,year,2,month.,2,104,8,0,112
+47754,27/3/2017,00:00,27,3,2017,Border Collie/Mix,Brown and White,5,15,Dog,1 year 8 months.,Female,Adoptable Dogs,102,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47754,27/3/2017,00:00,27,3,2017,Border Collie/Mix,Brown and White,19,5,Dog,1 year 8 months.,Female,Adoptable Dogs,57,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47755,27/3/2017,00:00,27,3,2017,Border Collie/Mix,Black and White,10,27,Dog,1 year 8 months.,Female,Adoptable Dogs,206,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47755,27/3/2017,00:00,27,3,2017,Border Collie/Mix,Black and White,14,17,Dog,1 year 8 months.,Female,Adoptable Dogs,96,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47755,27/3/2017,00:00,27,3,2017,Border Collie/Mix,Black and White,16,14,Dog,1 year 8 months.,Female,Adoptable Dogs,56,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47756,27/3/2017,00:00,27,3,2017,Border Collie/Mix,Black and White,12,15,Dog,1 year 8 months.,Female,Adoptable Dogs,223,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47756,27/3/2017,00:00,27,3,2017,Border Collie/Mix,Black and White,18,16,Dog,1 year 8 months.,Female,Adoptable Dogs,69,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47756,27/3/2017,00:00,27,3,2017,Border Collie/Mix,Black and White,20,27,Dog,1 year 8 months.,Female,Adoptable Dogs,300,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47757,27/3/2017,00:00,27,3,2017,Border Collie/Mix,Brown and White,5,13,Dog,1 year 8 months.,Female,Adoptable Dogs,218,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47757,27/3/2017,00:00,27,3,2017,Border Collie/Mix,Brown and White,16,16,Dog,1 year 8 months.,Female,Adoptable Dogs,133,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+47759,27/3/2017,00:00,27,3,2017,Chihuahua/Mix,Tan,9,23,Dog,13 years 7 months.,Female,Stray Dogs Alpha,206,13 years 7 months.,704,year,13,month.,7,676,28,0,704
+47759,27/3/2017,00:00,27,3,2017,Chihuahua/Mix,Tan,11,26,Dog,13 years 7 months.,Female,Stray Dogs Alpha,56,13 years 7 months.,704,year,13,month.,7,676,28,0,704
+47760,27/3/2017,00:00,27,3,2017,German Shepherd Dog,Ruddy,11,15,Dog,3 years 7 months.,Male,Adoptable Dogs,148,3 years 7 months.,184,year,3,month.,7,156,28,0,184
+47762,27/3/2017,00:00,27,3,2017,Chihuahua,Tan,11,15,Dog,6 years 8 months.,Female,Special Care Dogs,86,6 years 8 months.,344,year,6,month.,8,312,32,0,344
+47763,28/3/2017,00:00,28,3,2017,DSH/Unknown,Black,16,7,Cat,8 years 8 months.,Female,Adoptable Cat Middle Colony,111,8 years 8 months.,448,year,8,month.,8,416,32,0,448
+47764,28/3/2017,00:00,28,3,2017,Pitbull/Mix,Brown,13,6,Dog,2 years 8 months.,Female,Adoptable Dogs,161,2 years 8 months.,136,year,2,month.,8,104,32,0,136
+47765,28/3/2017,00:00,28,3,2017,Weimaraner/Terrier,Blue,17,30,Dog,2 years 10 months.,Male,Stray Dogs Beta,240,2 years 10 months.,144,year,2,month.,10,104,40,0,144
+47766,28/3/2017,00:00,28,3,2017,Pit Bull Terrier,Brown,10,18,Dog,2 years 8 months.,Male,Stray Dogs Beta,39,2 years 8 months.,136,year,2,month.,8,104,32,0,136
+47766,28/3/2017,00:00,28,3,2017,Pit Bull Terrier,Brown,19,9,Dog,2 years 8 months.,Male,Stray Dogs Beta,287,2 years 8 months.,136,year,2,month.,8,104,32,0,136
+47767,28/3/2017,00:00,28,3,2017,DSH/Unknown,Brown and Black,6,6,Cat,6 years 2 months.,Male,Stray Cats,18,6 years 2 months.,320,year,6,month.,2,312,8,0,320
+47768,28/3/2017,00:00,28,3,2017,Domestic Medium Hair,Grey,8,15,Cat,4 years 6 months.,Female,Stray Cats,224,4 years 6 months.,232,year,4,month.,6,208,24,0,232
+47769,28/3/2017,00:00,28,3,2017,Chihuahua/Miniature Pinscher,White,9,30,Dog,2 years 3 months.,Male,Adoptable Dogs,60,2 years 3 months.,116,year,2,month.,3,104,12,0,116
+47770,28/3/2017,00:00,28,3,2017,Rat Terrier/Mix,Cream,10,17,Dog,7 years 8 months.,Female,Adoptable Dogs,231,7 years 8 months.,396,year,7,month.,8,364,32,0,396
+47770,28/3/2017,00:00,28,3,2017,Rat Terrier/Mix,Cream,13,5,Dog,7 years 8 months.,Female,Adoptable Dogs,191,7 years 8 months.,396,year,7,month.,8,364,32,0,396
+47771,28/3/2017,00:00,28,3,2017,Rat Terrier/Beagle,Tricolour,5,28,Dog,8 years 8 months.,Female,Adoptable Dogs,169,8 years 8 months.,448,year,8,month.,8,416,32,0,448
+47771,28/3/2017,00:00,28,3,2017,Rat Terrier/Beagle,Tricolour,13,24,Dog,8 years 8 months.,Female,Adoptable Dogs,32,8 years 8 months.,448,year,8,month.,8,416,32,0,448
+55297,31/3/2017,12:28,31,3,2017,Domestic Short Hair,Black and White,6,12,Cat,11 years 7 months.,Male,Adoptable Cat Big Colony,73,11 years 7 months.,600,year,11,month.,7,572,28,0,600
+55297,31/3/2017,12:28,31,3,2017,Domestic Short Hair,Black and White,15,18,Cat,11 years 7 months.,Male,Adoptable Cat Big Colony,173,11 years 7 months.,600,year,11,month.,7,572,28,0,600
+55297,31/3/2017,12:28,31,3,2017,Domestic Short Hair,Black and White,16,7,Cat,11 years 7 months.,Male,Adoptable Cat Big Colony,116,11 years 7 months.,600,year,11,month.,7,572,28,0,600
+55298,31/3/2017,13:03,31,3,2017,Domestic Long Hair,Golden,13,11,Cat,3 years 7 months.,Male,Adoptable Cat Kennels,180,3 years 7 months.,184,year,3,month.,7,156,28,0,184
+55299,31/3/2017,13:23,31,3,2017,Domestic Short Hair,Tortie,7,6,Cat,5 years 7 months.,Female,Adoptable Cat Big Colony,122,5 years 7 months.,288,year,5,month.,7,260,28,0,288
+55299,31/3/2017,13:23,31,3,2017,Domestic Short Hair,Tortie,14,16,Cat,5 years 7 months.,Female,Adoptable Cat Big Colony,271,5 years 7 months.,288,year,5,month.,7,260,28,0,288
+55299,31/3/2017,13:23,31,3,2017,Domestic Short Hair,Tortie,15,11,Cat,5 years 7 months.,Female,Adoptable Cat Big Colony,172,5 years 7 months.,288,year,5,month.,7,260,28,0,288
+55300,31/3/2017,13:46,31,3,2017,Domestic Short Hair,Orange,10,7,Cat,2 years 7 months.,Male,Adoptable Cat Glass Colony,28,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55301,31/3/2017,13:53,31,3,2017,Domestic Short Hair,Orange,11,22,Cat,3 years 2 months.,Female,Adoptable Cat Kennels,195,3 years 2 months.,164,year,3,month.,2,156,8,0,164
+55301,31/3/2017,13:53,31,3,2017,Domestic Short Hair,Orange,16,8,Cat,3 years 2 months.,Female,Adoptable Cat Kennels,34,3 years 2 months.,164,year,3,month.,2,156,8,0,164
+55301,31/3/2017,13:53,31,3,2017,Domestic Short Hair,Orange,18,7,Cat,3 years 2 months.,Female,Adoptable Cat Kennels,261,3 years 2 months.,164,year,3,month.,2,156,8,0,164
+55302,29/3/2017,13:54,29,3,2017,Chihuahua/Yorkshire Terrier,Brown and Black,9,10,Dog,1 year 9 months.,Male,Stray Dogs Alpha,99,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+55302,29/3/2017,13:54,29,3,2017,Chihuahua/Yorkshire Terrier,Brown and Black,13,8,Dog,1 year 9 months.,Male,Stray Dogs Alpha,125,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+55302,29/3/2017,13:54,29,3,2017,Chihuahua/Yorkshire Terrier,Brown and Black,14,30,Dog,1 year 9 months.,Male,Stray Dogs Alpha,143,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+55302,29/3/2017,13:54,29,3,2017,Chihuahua/Yorkshire Terrier,Brown and Black,18,9,Dog,1 year 9 months.,Male,Stray Dogs Alpha,95,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+55303,31/3/2017,13:56,31,3,2017,Domestic Short Hair,Black,9,21,Cat,3 years 8 months.,Male,Adoptable Cat Big Colony,263,3 years 8 months.,188,year,3,month.,8,156,32,0,188
+55303,31/3/2017,13:56,31,3,2017,Domestic Short Hair,Black,20,16,Cat,3 years 8 months.,Male,Adoptable Cat Big Colony,16,3 years 8 months.,188,year,3,month.,8,156,32,0,188
+55304,29/3/2017,14:03,29,3,2017,Chihuahua/Yorkshire Terrier,Tan and Black,7,14,Dog,1 year 9 months.,Male,Stray Dogs Alpha,239,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+55304,29/3/2017,14:03,29,3,2017,Chihuahua/Yorkshire Terrier,Tan and Black,11,22,Dog,1 year 9 months.,Male,Stray Dogs Alpha,5,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+55304,29/3/2017,14:03,29,3,2017,Chihuahua/Yorkshire Terrier,Tan and Black,12,17,Dog,1 year 9 months.,Male,Stray Dogs Alpha,64,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+55304,29/3/2017,14:03,29,3,2017,Chihuahua/Yorkshire Terrier,Tan and Black,14,7,Dog,1 year 9 months.,Male,Stray Dogs Alpha,123,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+55305,29/3/2017,14:07,29,3,2017,Chihuahua/Yorkshire Terrier,Black and Tan,11,27,Dog,1 year 9 months.,Female,Stray Dogs Alpha,249,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+55305,29/3/2017,14:07,29,3,2017,Chihuahua/Yorkshire Terrier,Black and Tan,11,18,Dog,1 year 9 months.,Female,Stray Dogs Alpha,44,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+55305,29/3/2017,14:07,29,3,2017,Chihuahua/Yorkshire Terrier,Black and Tan,12,8,Dog,1 year 9 months.,Female,Stray Dogs Alpha,212,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+55305,29/3/2017,14:07,29,3,2017,Chihuahua/Yorkshire Terrier,Black and Tan,14,25,Dog,1 year 9 months.,Female,Stray Dogs Alpha,293,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+55307,29/3/2017,14:11,29,3,2017,Chihuahua/Yorkshire Terrier,Brown and Black,7,5,Dog,1 year 9 months.,Female,Stray Dogs Alpha,283,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+55307,29/3/2017,14:11,29,3,2017,Chihuahua/Yorkshire Terrier,Brown and Black,7,14,Dog,1 year 9 months.,Female,Stray Dogs Alpha,231,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+55307,29/3/2017,14:11,29,3,2017,Chihuahua/Yorkshire Terrier,Brown and Black,10,28,Dog,1 year 9 months.,Female,Stray Dogs Alpha,244,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+55307,29/3/2017,14:11,29,3,2017,Chihuahua/Yorkshire Terrier,Brown and Black,20,16,Dog,1 year 9 months.,Female,Stray Dogs Alpha,121,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+55308,31/3/2017,14:12,31,3,2017,Labrador Retriever/Mix,Black and White,7,30,Dog,3 years 10 months.,Male,Stray Dogs Theta,213,3 years 10 months.,196,year,3,month.,10,156,40,0,196
+55309,31/3/2017,14:32,31,3,2017,Fancy,White and Grey,7,27,Rat,2 years 7 months.,Male,Office,260,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55310,31/3/2017,14:32,31,3,2017,Fancy,White and Grey,13,20,Rat,2 years 7 months.,Male,Office,160,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55311,31/3/2017,14:32,31,3,2017,Fancy,White and Grey,17,21,Rat,2 years 7 months.,Male,Office,163,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55312,31/3/2017,14:32,31,3,2017,Fancy,White and Grey,9,14,Rat,2 years 7 months.,Unknown,Office,203,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55313,31/3/2017,14:32,31,3,2017,Fancy,White and Liver,5,6,Rat,2 years 7 months.,Male,Office,89,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55314,31/3/2017,14:32,31,3,2017,Fancy,White and Liver,14,28,Rat,2 years 7 months.,Unknown,Lobby,44,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55315,31/3/2017,14:32,31,3,2017,Fancy,White and Grey,14,7,Rat,2 years 7 months.,Male,Office,202,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55316,31/3/2017,14:32,31,3,2017,Fancy,White and Liver,19,25,Rat,2 years 7 months.,Male,Lobby,170,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55317,31/3/2017,14:32,31,3,2017,Fancy,White and Liver,15,30,Rat,2 years 7 months.,Male,Office,277,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55318,31/3/2017,14:32,31,3,2017,Fancy,White and Liver,20,26,Rat,2 years 7 months.,Female,Office,77,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55319,31/3/2017,14:32,31,3,2017,Fancy,White and Grey,16,30,Rat,2 years 7 months.,Female,Office,83,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55320,31/3/2017,14:32,31,3,2017,Fancy,White and Liver,14,23,Rat,2 years 7 months.,Female,Office,221,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55321,31/3/2017,14:32,31,3,2017,Fancy,White and Grey,12,15,Rat,2 years 7 months.,Unknown,Office,104,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55322,30/3/2017,15:30,30,3,2017,Chihuahua/Mix,Brown and White,9,21,Dog,3 years 0 months.,Female,Dog room B,12,3 years 0 months.,156,year,3,month.,0,156,0,0,156
+55322,30/3/2017,15:30,30,3,2017,Chihuahua/Mix,Brown and White,10,19,Dog,3 years 0 months.,Female,Dog room B,82,3 years 0 months.,156,year,3,month.,0,156,0,0,156
+55323,30/3/2017,15:43,30,3,2017,Shep Mix/Hound,Black and Tan,16,17,Dog,2 years 1 month.,Male,Stray Dogs Beta,225,2 years 1 month.,108,year,2,month.,1,104,4,0,108
+55324,31/3/2017,14:32,31,3,2017,Fancy,White and Grey,7,26,Rat,2 years 7 months.,Unknown,Office,233,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55325,31/3/2017,14:32,31,3,2017,Fancy,White and Grey,19,13,Rat,2 years 7 months.,Unknown,Office,269,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55326,31/3/2017,14:32,31,3,2017,Fancy,White and Grey,17,17,Rat,2 years 7 months.,Unknown,Office,274,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55327,31/3/2017,14:32,31,3,2017,Fancy,White and Grey,10,13,Rat,2 years 7 months.,Unknown,Office,49,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55328,31/3/2017,14:32,31,3,2017,Fancy,White and Grey,13,18,Rat,2 years 7 months.,Unknown,Office,206,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55329,31/3/2017,14:32,31,3,2017,Fancy,White and Grey,14,20,Rat,2 years 7 months.,Unknown,Office,18,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55330,31/3/2017,14:32,31,3,2017,Fancy,White and Grey,17,11,Rat,2 years 7 months.,Unknown,Office,174,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55331,31/3/2017,14:32,31,3,2017,Fancy,White and Grey,12,11,Rat,2 years 7 months.,Unknown,Office,196,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55332,31/3/2017,14:32,31,3,2017,Fancy,White and Grey,17,21,Rat,2 years 7 months.,Unknown,Office,59,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55333,31/3/2017,14:32,31,3,2017,Fancy,White and Grey,10,26,Rat,2 years 7 months.,Unknown,Office,12,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55334,29/3/2017,16:08,29,3,2017,Pitbull/Mix,White and Tan,19,20,Dog,3 years 9 months.,Male,Adoptable Dogs,18,3 years 9 months.,192,year,3,month.,9,156,36,0,192
+55335,31/3/2017,16:11,31,3,2017,Hound/German Shepherd Dog,Brown,6,26,Dog,3 years 7 months.,Male,Veterinary office,53,3 years 7 months.,184,year,3,month.,7,156,28,0,184
+55335,31/3/2017,16:11,31,3,2017,Hound/German Shepherd Dog,Brown,20,21,Dog,3 years 7 months.,Male,Veterinary office,87,3 years 7 months.,184,year,3,month.,7,156,28,0,184
+55336,31/3/2017,16:14,31,3,2017,Domestic Long Hair,Orange,12,6,Cat,4 years 11 months.,Male,Adoptable Cat Middle Colony,86,4 years 11 months.,252,year,4,month.,11,208,44,0,252
+55336,31/3/2017,16:14,31,3,2017,Domestic Long Hair,Orange,15,28,Cat,4 years 11 months.,Male,Adoptable Cat Middle Colony,264,4 years 11 months.,252,year,4,month.,11,208,44,0,252
+55337,29/3/2017,16:26,29,3,2017,Domestic Short Hair,Tabby,7,24,Cat,4 years 0 months.,Female,Adoptable Cat Glass Colony,246,4 years 0 months.,208,year,4,month.,0,208,0,0,208
+55338,31/3/2017,18:38,31,3,2017,Hound/Mix,Brown and White,8,16,Dog,1 year 10 months.,Male,Adoptable Dogs,144,1 year 10 months.,92,year,1,month.,10,52,40,0,92
+55338,31/3/2017,18:38,31,3,2017,Hound/Mix,Brown and White,15,18,Dog,1 year 10 months.,Male,Adoptable Dogs,45,1 year 10 months.,92,year,1,month.,10,52,40,0,92
+55339,31/3/2017,18:41,31,3,2017,Hound,Brown,11,13,Dog,1 year 9 months.,Male,Adoptable Dogs,196,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+55340,1/4/2017,10:19,1,4,2017,Fancy,White and Tan,18,12,Rat,1 year 10 months.,Female,Lobby,253,1 year 10 months.,92,year,1,month.,10,52,40,0,92
+55341,1/4/2017,10:24,1,4,2017,Fancy,White and Tan,20,20,Rat,2 years 3 months.,Female,Lobby,38,2 years 3 months.,116,year,2,month.,3,104,12,0,116
+55342,1/4/2017,10:24,1,4,2017,Fancy,White and Black,18,28,Rat,1 year 8 months.,Male,Lobby,90,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+55343,1/4/2017,10:24,1,4,2017,Fancy,White and Black,19,7,Rat,1 year 8 months.,Male,Lobby,230,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+55344,1/4/2017,10:24,1,4,2017,Fancy,White and Tan,16,18,Rat,1 year 8 months.,Male,Lobby,148,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+55345,1/4/2017,10:24,1,4,2017,Fancy,White and Tan,10,10,Rat,1 year 8 months.,Female,Lobby,172,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+55346,1/4/2017,10:24,1,4,2017,Fancy,White and Tan,9,22,Rat,1 year 8 months.,Female,Lobby,104,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+55347,1/4/2017,10:24,1,4,2017,Fancy,White and Black,13,5,Rat,1 year 8 months.,Female,Lobby,123,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+55348,1/4/2017,10:24,1,4,2017,Fancy,White and Black,11,18,Rat,1 year 8 months.,Female,Lobby,152,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+55349,1/4/2017,10:24,1,4,2017,Fancy,White and Grey,15,30,Rat,1 year 8 months.,Female,Lobby,22,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+55350,1/4/2017,12:07,1,4,2017,Husky,Grey and White,12,22,Dog,3 years 2 months.,Female,Special Care Dogs,108,3 years 2 months.,164,year,3,month.,2,156,8,0,164
+55351,1/4/2017,13:48,1,4,2017,Labrador Retriever/American Bulldog,Brown,5,16,Dog,2 years 8 months.,Male,Adoptable Dogs,233,2 years 8 months.,136,year,2,month.,8,104,32,0,136
+55351,1/4/2017,13:48,1,4,2017,Labrador Retriever/American Bulldog,Brown,9,24,Dog,2 years 8 months.,Male,Adoptable Dogs,121,2 years 8 months.,136,year,2,month.,8,104,32,0,136
+55352,1/4/2017,14:04,1,4,2017,Domestic Long Hair,Brown and Black,15,6,Cat,8 years 9 months.,Female,Adoptable Cat Kennels,284,8 years 9 months.,452,year,8,month.,9,416,36,0,452
+55354,1/4/2017,14:17,1,4,2017,Domestic Short Hair,Black,15,11,Cat,13 years 7 months.,Female,Adoptable Cat Big Colony,189,13 years 7 months.,704,year,13,month.,7,676,28,0,704
+55355,2/4/2017,13:08,2,4,2017,Domestic Long Hair,Tortie,7,15,Cat,12 years 7 months.,Female,Stray Cats,252,12 years 7 months.,652,year,12,month.,7,624,28,0,652
+55357,2/4/2017,13:14,2,4,2017,Labrador Retriever/Pit Bull Terrier,Black and White,6,18,Dog,2 years 5 months.,Female,Adoptable Dogs,275,2 years 5 months.,124,year,2,month.,5,104,20,0,124
+55357,2/4/2017,13:14,2,4,2017,Labrador Retriever/Pit Bull Terrier,Black and White,19,17,Dog,2 years 5 months.,Female,Adoptable Dogs,268,2 years 5 months.,124,year,2,month.,5,104,20,0,124
+55358,2/4/2017,20:06,2,4,2017,Shep Mix,Tan,9,16,Dog,2 years 9 months.,Male,Stray Dogs Beta,10,2 years 9 months.,140,year,2,month.,9,104,36,0,140
+55359,3/4/2017,09:57,3,4,2017,Domestic Short Hair,Brown and Black,9,27,Cat,9 years 7 months.,Female,Adoptable Cat Kennels,241,9 years 7 months.,496,year,9,month.,7,468,28,0,496
+55360,3/4/2017,12:16,3,4,2017,Domestic Short Hair,Tortie,10,28,Cat,14 years 5 months.,Female,Adoptable Cat Kennels,273,14 years 5 months.,748,year,14,month.,5,728,20,0,748
+55361,3/4/2017,13:16,3,4,2017,Siamese/Mix,Seal,12,19,Cat,6 years 7 months.,Female,Adoptable Cat Big Colony,184,6 years 7 months.,340,year,6,month.,7,312,28,0,340
+55362,3/4/2017,13:25,3,4,2017,Shep Mix,Black,15,14,Dog,3 years 7 months.,Female,Check-in,149,3 years 7 months.,184,year,3,month.,7,156,28,0,184
+55363,3/4/2017,13:46,3,4,2017,Chicken,White and Black,14,22,Bird,1 year 8 months.,Unknown,Special Care Dogs,174,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+55364,3/4/2017,14:15,3,4,2017,Terrier,Fawn,16,11,Dog,3 years 0 months.,Male,Stray Dogs Beta,125,3 years 0 months.,156,year,3,month.,0,156,0,0,156
+55365,3/4/2017,14:35,3,4,2017,Labrador Retriever/Terrier,Golden,16,18,Dog,10 years 1 month.,Male,Adoptable Dogs,293,10 years 1 month.,524,year,10,month.,1,520,4,0,524
+55366,3/4/2017,14:43,3,4,2017,Domestic Short Hair,Brown and Black,15,30,Cat,2 years 8 months.,Male,Adoptable Cat Big Colony,64,2 years 8 months.,136,year,2,month.,8,104,32,0,136
+55369,3/4/2017,15:31,3,4,2017,Domestic Short Hair,Orange,5,6,Cat,11 years 7 months.,Female,Stray Cats,108,11 years 7 months.,600,year,11,month.,7,572,28,0,600
+55370,3/4/2017,16:25,3,4,2017,Calico,Tabbico,13,22,Cat,1 year 8 months.,Female,Adoptable Cat Kennels,207,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+55370,3/4/2017,16:25,3,4,2017,Calico,Tabbico,14,9,Cat,1 year 8 months.,Female,Adoptable Cat Kennels,213,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+55370,3/4/2017,16:25,3,4,2017,Calico,Tabbico,18,15,Cat,1 year 8 months.,Female,Adoptable Cat Kennels,267,1 year 8 months.,84,year,1,month.,8,52,32,0,84
+55371,3/4/2017,16:30,3,4,2017,Calico,Tabby,5,30,Cat,3 weeks.,Female,Feline Nursery,222,3 weeks.,3,week.,3,,,,,3,3
+55371,3/4/2017,16:30,3,4,2017,Calico,Tabby,16,9,Cat,3 weeks.,Female,Feline Nursery,87,3 weeks.,3,week.,3,,,,,3,3
+55372,3/4/2017,16:40,3,4,2017,Chihuahua/Rat Terrier,Tan and White,13,20,Dog,3 years 7 months.,Female,Stray Dogs Theta,256,3 years 7 months.,184,year,3,month.,7,156,28,0,184
+55373,3/4/2017,16:43,3,4,2017,Pitbull,Blue,16,14,Dog,4 years 1 month.,Female,Stray Dogs Beta,173,4 years 1 month.,212,year,4,month.,1,208,4,0,212
+55375,4/4/2017,12:02,4,4,2017,Domestic Short Hair,White,19,19,Cat,1 year 11 months.,Unknown,Stray Cats,165,1 year 11 months.,96,year,1,month.,11,52,44,0,96
+55376,4/4/2017,12:04,4,4,2017,Domestic Short Hair,Black and White,8,21,Cat,3 years 7 months.,Female,Adoptable Cat Big Colony,117,3 years 7 months.,184,year,3,month.,7,156,28,0,184
+55376,4/4/2017,12:04,4,4,2017,Domestic Short Hair,Black and White,9,28,Cat,3 years 7 months.,Female,Adoptable Cat Big Colony,253,3 years 7 months.,184,year,3,month.,7,156,28,0,184
+55376,4/4/2017,12:04,4,4,2017,Domestic Short Hair,Black and White,17,7,Cat,3 years 7 months.,Female,Adoptable Cat Big Colony,149,3 years 7 months.,184,year,3,month.,7,156,28,0,184
+55377,4/4/2017,12:04,4,4,2017,Domestic Short Hair,Cream,14,15,Cat,1 year 7 months.,Female,Lobby,44,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55377,4/4/2017,12:04,4,4,2017,Domestic Short Hair,Cream,14,25,Cat,1 year 7 months.,Female,Lobby,217,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55378,4/4/2017,12:04,4,4,2017,Domestic Short Hair,Black,5,9,Cat,1 year 7 months.,Female,Lobby,87,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55378,4/4/2017,12:04,4,4,2017,Domestic Short Hair,Black,8,30,Cat,1 year 7 months.,Female,Lobby,127,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55379,4/4/2017,12:04,4,4,2017,Domestic Short Hair,Grey,12,21,Cat,1 year 7 months.,Male,Lobby,286,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55379,4/4/2017,12:04,4,4,2017,Domestic Short Hair,Grey,20,24,Cat,1 year 7 months.,Male,Lobby,74,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55380,4/4/2017,12:04,4,4,2017,Domestic Short Hair,Grey,17,26,Cat,1 year 7 months.,Male,Lobby,128,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55380,4/4/2017,12:04,4,4,2017,Domestic Short Hair,Grey,18,28,Cat,1 year 7 months.,Male,Lobby,81,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55381,4/4/2017,12:11,4,4,2017,Domestic Short Hair,Black,18,28,Cat,2 years 7 months.,Male,Special Care Cats,263,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55382,4/4/2017,12:14,4,4,2017,Domestic Short Hair,Orange,11,30,Cat,8 years 7 months.,Female,Adoptable Cat Kennels,66,8 years 7 months.,444,year,8,month.,7,416,28,0,444
+55382,4/4/2017,12:14,4,4,2017,Domestic Short Hair,Orange,17,11,Cat,8 years 7 months.,Female,Adoptable Cat Kennels,120,8 years 7 months.,444,year,8,month.,7,416,28,0,444
+55383,4/4/2017,12:14,4,4,2017,Domestic Short Hair,Tortie,8,24,Cat,1 year 7 months.,Female,Adoptable Cat Small Colony,25,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55383,4/4/2017,12:14,4,4,2017,Domestic Short Hair,Tortie,19,7,Cat,1 year 7 months.,Female,Adoptable Cat Small Colony,279,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55384,4/4/2017,12:14,4,4,2017,Domestic Short Hair,Tortie,9,16,Cat,1 year 7 months.,Female,Lobby,17,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55384,4/4/2017,12:14,4,4,2017,Domestic Short Hair,Tortie,16,29,Cat,1 year 7 months.,Female,Lobby,45,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55385,4/4/2017,12:14,4,4,2017,Domestic Short Hair,Tortie,10,16,Cat,1 year 7 months.,Female,Adoptable Cat Small Colony,218,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55385,4/4/2017,12:14,4,4,2017,Domestic Short Hair,Tortie,15,14,Cat,1 year 7 months.,Female,Adoptable Cat Small Colony,251,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55386,4/4/2017,12:14,4,4,2017,Domestic Short Hair,Tortie,10,22,Cat,1 year 7 months.,Female,Adoptable Cat Small Colony,115,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55386,4/4/2017,12:14,4,4,2017,Domestic Short Hair,Tortie,11,24,Cat,1 year 7 months.,Female,Adoptable Cat Small Colony,119,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55389,4/4/2017,17:49,4,4,2017,Domestic Short Hair,Brown and Black,19,18,Cat,3 years 5 months.,Male,Adoptable Cat Kennels,215,3 years 5 months.,176,year,3,month.,5,156,20,0,176
+55391,5/4/2017,09:05,5,4,2017,German Shepherd Dog,Brown and Black,8,27,Dog,8 years 7 months.,Male,Stray Dogs Beta,241,8 years 7 months.,444,year,8,month.,7,416,28,0,444
+55394,5/4/2017,14:11,5,4,2017,Shih Tzu,White and Tan,11,22,Dog,13 years 7 months.,Female,Stray Dogs Beta,266,13 years 7 months.,704,year,13,month.,7,676,28,0,704
+55395,5/4/2017,14:18,5,4,2017,"Poodle, Miniature/Mix",Black,17,10,Dog,7 years 7 months.,Male,Adoptable Dogs,36,7 years 7 months.,392,year,7,month.,7,364,28,0,392
+55396,18/3/2017,00:00,18,3,2017,Domestic Short Hair,Grey and White,16,24,Cat,3 weeks.,Female,Foster,158,3 weeks.,3,week.,3,,,,,3,3
+55397,18/3/2017,00:00,18,3,2017,Domestic Short Hair,Brown and Black,17,27,Cat,3 weeks.,Female,Foster,239,3 weeks.,3,week.,3,,,,,3,3
+55398,18/3/2017,00:00,18,3,2017,Domestic Short Hair,White and Black,11,25,Cat,3 weeks.,Female,Foster,58,3 weeks.,3,week.,3,,,,,3,3
+55399,18/3/2017,00:00,18,3,2017,Domestic Short Hair,Black and White,9,9,Cat,1 week.,Female,Foster,70,1 week.,1,week.,1,,,,,1,1
+55400,6/4/2017,08:19,6,4,2017,Coonhound,Tricolour,6,24,Dog,13 years 3 months.,Male,Check-in,161,13 years 3 months.,688,year,13,month.,3,676,12,0,688
+55401,6/4/2017,11:36,6,4,2017,Domestic Short Hair,Orange,7,6,Cat,3 years 10 months.,Male,Stray Cats,203,3 years 10 months.,196,year,3,month.,10,156,40,0,196
+55401,6/4/2017,11:36,6,4,2017,Domestic Short Hair,Orange,12,15,Cat,3 years 10 months.,Male,Stray Cats,119,3 years 10 months.,196,year,3,month.,10,156,40,0,196
+55402,6/4/2017,12:14,6,4,2017,Domestic Long Hair,Buff,16,14,Cat,11 years 4 months.,Male,Special Care Cats,118,11 years 4 months.,588,year,11,month.,4,572,16,0,588
+55404,6/4/2017,13:29,6,4,2017,Akita/German Shepherd Dog,Brown and Black,8,29,Dog,6 years 7 months.,Female,Stray Dogs Theta,286,6 years 7 months.,340,year,6,month.,7,312,28,0,340
+55405,6/4/2017,13:48,6,4,2017,"Schnauzer, Miniature/Poodle",Black and Brown,10,28,Dog,2 years 7 months.,Male,Special Care Dogs,233,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55409,6/4/2017,16:59,6,4,2017,English Bulldog,Brown and White,10,24,Dog,5 years 7 months.,Unknown,Stray Dogs Theta,22,5 years 7 months.,288,year,5,month.,7,260,28,0,288
+55410,7/4/2017,08:11,7,4,2017,Border Collie,Black and White,18,17,Dog,5 years 7 months.,Male,Check-in,201,5 years 7 months.,288,year,5,month.,7,260,28,0,288
+55411,7/4/2017,08:28,7,4,2017,Domestic Short Hair,Grey,17,26,Cat,34 years 7 months.,Unknown,Check-in,183,34 years 7 months.,1796,year,34,month.,7,1768,28,0,1796
+55412,7/4/2017,08:31,7,4,2017,Domestic Short Hair,Black and Brown,8,26,Cat,34 years 7 months.,Unknown,Stray Cats,225,34 years 7 months.,1796,year,34,month.,7,1768,28,0,1796
+55415,7/4/2017,11:37,7,4,2017,Domestic Short Hair,Brown and Black,16,30,Cat,2 years 1 month.,Unknown,Stray Cats,165,2 years 1 month.,108,year,2,month.,1,104,4,0,108
+55416,7/4/2017,11:40,7,4,2017,Domestic Short Hair,Grey and White,19,18,Cat,2 years 1 month.,Unknown,Stray Cats,24,2 years 1 month.,108,year,2,month.,1,104,4,0,108
+55419,31/3/2017,13:23,31,3,2017,Domestic Short Hair,Black,12,17,Cat,1 year 7 months.,Female,Lobby,281,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55419,31/3/2017,13:23,31,3,2017,Domestic Short Hair,Black,17,16,Cat,1 year 7 months.,Female,Lobby,128,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55419,31/3/2017,13:23,31,3,2017,Domestic Short Hair,Black,19,16,Cat,1 year 7 months.,Female,Lobby,130,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55420,31/3/2017,13:23,31,3,2017,Domestic Short Hair,Orange,7,29,Cat,1 year 7 months.,Male,Feline Nursery,114,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55420,31/3/2017,13:23,31,3,2017,Domestic Short Hair,Orange,8,27,Cat,1 year 7 months.,Male,Feline Nursery,289,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55420,31/3/2017,13:23,31,3,2017,Domestic Short Hair,Orange,20,20,Cat,1 year 7 months.,Male,Feline Nursery,109,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55421,31/3/2017,13:23,31,3,2017,Domestic Short Hair,Orange,5,6,Cat,1 year 7 months.,Male,Lobby,74,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55421,31/3/2017,13:23,31,3,2017,Domestic Short Hair,Orange,11,19,Cat,1 year 7 months.,Male,Lobby,229,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55421,31/3/2017,13:23,31,3,2017,Domestic Short Hair,Orange,12,27,Cat,1 year 7 months.,Male,Lobby,249,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55421,31/3/2017,13:23,31,3,2017,Domestic Short Hair,Orange,13,27,Cat,1 year 7 months.,Male,Lobby,291,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55422,31/3/2017,13:23,31,3,2017,Domestic Short Hair,Tortie,6,6,Cat,1 year 7 months.,Female,Lobby,14,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55422,31/3/2017,13:23,31,3,2017,Domestic Short Hair,Tortie,6,15,Cat,1 year 7 months.,Female,Lobby,99,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55422,31/3/2017,13:23,31,3,2017,Domestic Short Hair,Tortie,12,29,Cat,1 year 7 months.,Female,Lobby,205,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55423,31/3/2017,13:23,31,3,2017,Domestic Short Hair,Tortie,11,26,Cat,1 year 7 months.,Female,Lobby,38,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55423,31/3/2017,13:23,31,3,2017,Domestic Short Hair,Tortie,15,30,Cat,1 year 7 months.,Female,Lobby,79,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55423,31/3/2017,13:23,31,3,2017,Domestic Short Hair,Tortie,16,29,Cat,1 year 7 months.,Female,Lobby,79,1 year 7 months.,80,year,1,month.,7,52,28,0,80
+55425,7/4/2017,14:21,7,4,2017,,Black,6,20,Opossum,29 years 7 months.,Unknown,Check-in,158,29 years 7 months.,1536,year,29,month.,7,1508,28,0,1536
+55426,7/4/2017,14:21,7,4,2017,,Black,9,17,Opossum,29 years 7 months.,Unknown,Check-in,56,29 years 7 months.,1536,year,29,month.,7,1508,28,0,1536
+55427,7/4/2017,14:21,7,4,2017,,Black,18,9,Opossum,29 years 7 months.,Unknown,Check-in,153,29 years 7 months.,1536,year,29,month.,7,1508,28,0,1536
+55428,7/4/2017,14:21,7,4,2017,,Black,7,5,Opossum,30 years 0 months.,Unknown,Check-in,277,30 years 0 months.,1560,year,30,month.,0,1560,0,0,1560
+55429,7/4/2017,14:21,7,4,2017,,Black,11,16,Opossum,29 years 7 months.,Unknown,Check-in,293,29 years 7 months.,1536,year,29,month.,7,1508,28,0,1536
+55430,7/4/2017,14:48,7,4,2017,Domestic Short Hair,Black,11,7,Cat,2 years 3 months.,Female,Adoptable Cat Glass Colony,159,2 years 3 months.,116,year,2,month.,3,104,12,0,116
+55433,7/4/2017,18:46,7,4,2017,Hound/Mix,Brown and White,7,27,Dog,2 years 1 month.,Male,Adoptable Dogs,109,2 years 1 month.,108,year,2,month.,1,104,4,0,108
+55434,8/4/2017,12:20,8,4,2017,German Shepherd Dog/Mix,Black,16,11,Dog,3 years 0 months.,Female,Adoptable Dogs,182,3 years 0 months.,156,year,3,month.,0,156,0,0,156
+55438,8/4/2017,15:52,8,4,2017,Domestic Short Hair,Grey and White,7,5,Cat,6 years 1 month.,Male,Adoptable Cat Big Colony,254,6 years 1 month.,316,year,6,month.,1,312,4,0,316
+55439,8/4/2017,16:08,8,4,2017,Pitbull,Black,5,30,Dog,3 years 7 months.,Male,Stray Dogs Beta,201,3 years 7 months.,184,year,3,month.,7,156,28,0,184
+55439,8/4/2017,16:08,8,4,2017,Pitbull,Black,7,9,Dog,3 years 7 months.,Male,Stray Dogs Beta,267,3 years 7 months.,184,year,3,month.,7,156,28,0,184
+55439,8/4/2017,16:08,8,4,2017,Pitbull,Black,10,9,Dog,3 years 7 months.,Male,Stray Dogs Beta,253,3 years 7 months.,184,year,3,month.,7,156,28,0,184
+55440,8/4/2017,16:26,8,4,2017,Domestic Short Hair,Black and White,15,29,Cat,2 years 7 months.,Female,Adoptable Cat Middle Colony,200,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55441,8/4/2017,16:39,8,4,2017,Fancy,White and Grey,19,29,Rat,2 years 7 months.,Male,Check-in,177,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55442,9/4/2017,13:09,9,4,2017,Domestic Short Hair,White and Black,7,26,Cat,6 years 8 months.,Female,Adoptable Cat Big Colony,93,6 years 8 months.,344,year,6,month.,8,312,32,0,344
+55444,9/4/2017,15:11,9,4,2017,Pitbull/Mix,Brindle and White,13,20,Dog,2 years 8 months.,Male,Adoptable Dogs,250,2 years 8 months.,136,year,2,month.,8,104,32,0,136
+55445,9/4/2017,15:59,9,4,2017,Beagle,Tricolour,8,28,Dog,6 years 7 months.,Female,Adoptable Dogs,111,6 years 7 months.,340,year,6,month.,7,312,28,0,340
+55446,10/4/2017,07:58,10,4,2017,,Grey and White,10,17,Chicken,2 years 7 months.,Female,Special Care Dogs,265,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55447,10/4/2017,09:30,10,4,2017,Domestic Short Hair,Grey,19,18,Cat,3 years 7 months.,Female,Stray Cats,297,3 years 7 months.,184,year,3,month.,7,156,28,0,184
+55448,10/4/2017,12:14,10,4,2017,Domestic Short Hair,Tabbico,13,22,Cat,5 years 7 months.,Female,Adoptable Cat Big Colony,172,5 years 7 months.,288,year,5,month.,7,260,28,0,288
+55448,10/4/2017,12:14,10,4,2017,Domestic Short Hair,Tabbico,16,9,Cat,5 years 7 months.,Female,Adoptable Cat Big Colony,126,5 years 7 months.,288,year,5,month.,7,260,28,0,288
+55449,10/4/2017,12:14,10,4,2017,Domestic Medium Hair,White,10,14,Cat,1 year 9 months.,Male,Feline Nursery,272,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+55449,10/4/2017,12:14,10,4,2017,Domestic Medium Hair,White,13,18,Cat,1 year 9 months.,Male,Feline Nursery,289,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+55450,10/4/2017,12:14,10,4,2017,Domestic Medium Hair,Orange,5,15,Cat,1 year 9 months.,Male,Feline Nursery,240,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+55450,10/4/2017,12:14,10,4,2017,Domestic Medium Hair,Orange,16,5,Cat,1 year 9 months.,Male,Feline Nursery,120,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+55451,10/4/2017,12:14,10,4,2017,Domestic Medium Hair,Black and Brown,10,20,Cat,1 year 9 months.,Male,Feline Nursery,41,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+55451,10/4/2017,12:14,10,4,2017,Domestic Medium Hair,Black and Brown,13,25,Cat,1 year 9 months.,Male,Feline Nursery,18,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+55452,10/4/2017,12:14,10,4,2017,Domestic Medium Hair,Buff,14,30,Cat,1 year 9 months.,Male,Feline Nursery,213,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+55452,10/4/2017,12:14,10,4,2017,Domestic Medium Hair,Buff,20,23,Cat,1 year 9 months.,Male,Feline Nursery,247,1 year 9 months.,88,year,1,month.,9,52,36,0,88
+55453,10/4/2017,13:08,10,4,2017,Coonhound,Tricolour,18,26,Dog,4 years 7 months.,Female,Adoptable Dogs,178,4 years 7 months.,236,year,4,month.,7,208,28,0,236
+55454,10/4/2017,13:41,10,4,2017,Shep Mix,Brown,5,16,Dog,2 years 1 month.,Male,Adoptable Dogs,132,2 years 1 month.,108,year,2,month.,1,104,4,0,108
+55455,10/4/2017,13:52,10,4,2017,Hound/Shep Mix,Black and Brown,8,29,Dog,4 years 7 months.,Female,Adoptable Dogs,28,4 years 7 months.,236,year,4,month.,7,208,28,0,236
+55456,27/11/2018,17:30,27,11,2018,Foxhound,Tricolour,6,27,Dog,2 years 7 months.,Male,Adoptable Dogs,10,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55456,27/11/2018,17:30,27,11,2018,Foxhound,Tricolour,7,27,Dog,2 years 7 months.,Male,Adoptable Dogs,58,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55456,27/11/2018,17:30,27,11,2018,Foxhound,Tricolour,11,23,Dog,2 years 7 months.,Male,Adoptable Dogs,45,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55456,27/11/2018,17:30,27,11,2018,Foxhound,Tricolour,12,26,Dog,2 years 7 months.,Male,Adoptable Dogs,77,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55456,27/11/2018,17:30,27,11,2018,Foxhound,Tricolour,12,27,Dog,2 years 7 months.,Male,Adoptable Dogs,31,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55456,27/11/2018,17:30,27,11,2018,Foxhound,Tricolour,13,30,Dog,2 years 7 months.,Male,Adoptable Dogs,73,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55456,27/11/2018,17:30,27,11,2018,Foxhound,Tricolour,15,,Dog,2 years 7 months.,Male,Adoptable Dogs,257,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55456,27/11/2018,17:30,27,11,2018,Foxhound,Tricolour,18,10,Dog,2 years 7 months.,Male,Adoptable Dogs,245,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55456,27/11/2018,17:30,27,11,2018,Foxhound,Tricolour,19,8,Dog,2 years 7 months.,Male,Adoptable Dogs,28,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55456,27/11/2018,17:30,27,11,2018,Foxhound,Tricolour,20,16,Dog,2 years 7 months.,Male,Adoptable Dogs,133,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55458,10/4/2017,14:46,10,4,2017,Hound/Mix,Brindle,6,,Dog,5 years 4 months.,Female,Adoptable Dogs,243,5 years 4 months.,276,year,5,month.,4,260,16,0,276
+55462,10/4/2017,15:28,10,4,2017,Hound,Black and Tan,20,,Dog,2 years 7 months.,Male,Adoptable Dogs,201,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55463,11/4/2017,08:48,11,4,2017,Beagle,Tricolour,14,,Dog,11 years 7 months.,Male,Adoptable Dogs,140,11 years 7 months.,600,year,11,month.,7,572,28,0,600
+55464,11/4/2017,10:58,11,4,2017,Basset Hound,Grey and White,17,,Dog,16 years 7 months.,Male,Stray Dogs Theta,215,16 years 7 months.,860,year,16,month.,7,832,28,0,860
+55465,11/4/2017,11:02,11,4,2017,Domestic Short Hair,Grey and White,5,,Cat,29 years 7 months.,Unknown,Stray Cats,262,29 years 7 months.,1536,year,29,month.,7,1508,28,0,1536
+55466,11/4/2017,11:06,11,4,2017,Pug/Rottweiler,Black and Brown,11,,Dog,3 years 5 months.,Male,Shelter,134,3 years 5 months.,176,year,3,month.,5,156,20,0,176
+55468,11/4/2017,11:44,11,4,2017,Little Brown Bat,Black,14,,Wildlife,2 years 7 months.,Unknown,Shelter,183,2 years 7 months.,132,year,2,month.,7,104,28,0,132
+55469,11/4/2017,13:07,11,4,2017,Domestic Short Hair,White and Tan,6,,Cat,1 year 11 months.,Male,Adoptable Cat Glass Colony,261,1 year 11 months.,96,year,1,month.,11,52,44,0,96
+55470,11/4/2017,13:14,11,4,2017,Domestic Short Hair,Tabbico,16,,Cat,1 year 11 months.,Female,Adoptable Cat Glass Colony,23,1 year 11 months.,96,year,1,month.,11,52,44,0,96
+55473,11/4/2017,16:07,11,4,2017,Ferret,Grey,17,,Ferret,2 years 11 months.,Male,Check-in,,2 years 11 months.,148,year,2,month.,11,104,44,0,148
+55475,11/4/2017,17:37,11,4,2017,Domestic Long Hair,Black and White,17,,Cat,4 years 3 months.,Male,Adoptable Cat Big Colony,,4 years 3 months.,220,year,4,month.,3,208,12,0,220
+55475,11/4/2017,17:37,11,4,2017,Domestic Long Hair,Black and White,18,,Cat,4 years 3 months.,Male,Adoptable Cat Big Colony,,4 years 3 months.,220,year,4,month.,3,208,12,0,220
