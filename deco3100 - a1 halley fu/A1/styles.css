@@ -1,0 +1,67 @@
+/* Assuming the image has a class "workspace" */
+
+.maintext {
+    font-family: Arial, sans-serif; /* Use a clean font */
+    line-height: 1.6; /* Improve readability */
+    margin: 20px; /* Add some margin */
+    color: #333; /* Dark text color */
+}
+
+/* Container holding the image and the text */
+/* Container holding the image and the text */
+.container {
+    position: relative; /* Establish a positioning context for absolutely positioned children */
+    text-align: center; /* Center-align text */
+    color: black; /* Default text color */
+}
+
+.workspace {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    z-index: 1; /* Ensure the image is below the text */
+    position: relative; /* Ensure the image doesn't interfere with absolute positioning */
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    z-index: 2; /* Ensure the text is above the image */
+    color: white; /* Make text visible if the image is dark */
+}
+
+.top-left {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 2;
+    color: white;
+}
+
+.top-right {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 2;
+    color: white;
+}
+
+.bottom-right {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    z-index: 2;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); /* Center the text */
+    z-index: 2;
+    color: white;
+}
