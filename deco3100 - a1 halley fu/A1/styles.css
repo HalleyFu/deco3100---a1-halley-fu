@@ -1,9 +1,11 @@
 /* Assuming the image has a class "workspace" */
 
-.maintext {
+.mainText {
     font-family: Arial, sans-serif; /* Use a clean font */
     line-height: 1.6; /* Improve readability */
     margin: 20px; /* Add some margin */
+    margin-left: 100px; /* Add left margin for alignment */
+    margin-right: 100px;
     color: #333; /* Dark text color */
 }
 
@@ -17,7 +19,7 @@
 
 .workspace {
     width: 100%;
-    max-width: 600px;
+    max-width: 100%;
     height: auto;
     display: block;
     margin: 20px auto;
@@ -58,10 +60,11 @@
 }
 
 .centered {
+    font-size: 60px;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%); /* Center the text */
     z-index: 2;
-    color: white;
+    color: blue;
 }
