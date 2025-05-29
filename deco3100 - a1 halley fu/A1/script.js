@@ -5,7 +5,7 @@ const ppdDiv = document.getElementById("ppdChart");
 
 const unpack = (data, key) => data.map(row => row[key]);
 
-d3.csv("a1_data.csv").then(samba_data => {
+d3.csv("pivot_table.csv").then(samba_data => {
     function filterDataByTime(startHour, endHour) {
         return samba_data.filter(row => {
             const hour = parseInt(row.Time.split(":")[0]);
