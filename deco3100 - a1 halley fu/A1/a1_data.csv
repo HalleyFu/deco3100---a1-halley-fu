@@ -1,4 +1,4 @@
-serial_no,floor_level,zone_id,Date,Day,Month,Year,Time,tg globe temper.,ta,rh relative humi,a_s airspeed,tmrt mean radiant temp,pmv mean vot,ppd,lux,spl,co2
+serial_no,floor_level,zone_id,Date,Day,Month,Year,time,tg globe temper.,ta,rh relative humi,a_s airspeed,tmrt mean radiant temp,pmv mean vot,ppd,lux,spl,co2
 416C1935,30,8,16/05/2019,16,5,2019,09:00:00,23.1,22.7,55,0.02,23.4,0.1,10,120,48,602
 416C1935,30,8,16/05/2019,16,5,2019,09:30:00,23.2,22.9,54,0.01,23.5,0.1,12,125,48,609
 416C1935,30,8,16/05/2019,16,5,2019,10:00:00,23.3,23.0,54,0.01,23.5,0.2,13,130,49,618
