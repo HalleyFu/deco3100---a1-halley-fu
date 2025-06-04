@@ -10,6 +10,11 @@ header {
     padding: 60px 400px 30px;
 }
 
+.nav
+{
+    position: sticky;
+}
+
 .logo {
     position: sticky;
     font-weight: bold;
