@@ -135,18 +135,7 @@ function drawCharts(filteredData) {
                 '<b>Time:</b> %{x}<br>' +
                 '<b>Air Temp:</b> %{y} °C<extra></extra>'
         },
-        {
-            x: time,
-            y: ppd,
-            name: "PPD (%)",
-            yaxis: 'y2',
-            mode: currentMode,
-            line: { color: "purple" },
-            marker: { color: "indigo" },
-            hovertemplate:
-                '<b>Time:</b> %{x}<br>' +
-                '<b>PPD:</b> %{y}%<extra></extra>'
-        }
+        
     ], {
         title: "Air Temperature and PPD Over Time",
         xaxis: { title: "Time (hh:mm:ss)" },

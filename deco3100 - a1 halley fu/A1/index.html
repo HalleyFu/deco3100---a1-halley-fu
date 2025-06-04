@@ -1,24 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
+    <meta charset="UTF-8">
+    <title>IEQ Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
     <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
-    <!-- Include Plotly.js -->
     <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
 </head>
 
 <body>
-    <!-- Add container divs for each chart -->
-    <div id="co2Chart"></div>
-    <div id="splChart"></div>
-    <div id="taChart"></div>
-    <div id="ppdChart"></div>
 
-    <!-- Add time filter buttons -->
-    <div>
-        <button id="btn-morning">Morning (9-12)</button>
-        <button id="btn-noon">Noon (12-15)</button>
-        <button id="btn-afternoon">Afternoon (15-17)</button>
-        <button id="btn-day">Full Day (9-17)</button>
+    
+
+    <div class="logo">
+        <div class="logo-icon">IEQ</div> Aerate
     </div>
 
-    <!-- Reference the correct script file -->
+    <!-- Video -->
+    <div class="video-section">
+        <video width="100%" height="100%" autoplay loop muted>
+            <source src="tired_worker.mp4" type="video/mp4">
+        </video>
+    </div>
+
+    <header>
+        <div>
+            <h1 class>Control how you feel with Aerate.</h1>
+            <p>It's a common experience for office employees to finish work and feel tired -
+                with only enough energy to crash, not to thrive. We easily blame this on personal choices like poor sleep or diet
+                - factors we can control. But what if the real cause is something we can’t see. My visualisation uses the SAMBA sensor
+                data to reveal how rising CO2, increasing temperatures, and elevated noise levels - joined together leave workers feeling
+                fatigued before they even leave the office.</p>
+        </div>
+    </header>
+
+    <header>
+        <div>
+            <h1 class>The best indoor air quality dashboard for offices</h1>
+            <p>SmartAir combines real-time CO₂, noise, and temperature data into one live dashboard.</p>
+            <p>Hover over the graph for more information about each data point.</p>
+
+            <div class="cta">
+                <button>Install YourAir</button>
+                <select>
+                    <option>Demo in 100 seconds</option>
+                    <option>Try Now</option>
+                </select>
+            </div>
+        </div>
+    </header>
+
+    <div class="chart-section">
+        <div class="filter-buttons">
+            <button id="btn-morning">Morning (9–12)</button>
+            <button id="btn-noon">Noon (12–15)</button>
+            <button id="btn-afternoon">Afternoon (15–17)</button>
+            <button id="btn-day">Full Day (9–17)</button>
+        </div>
+
+
+            <div id="chart-text">
+        <div id="co2Chart"></div>
+        <header>
+        <div>
+            <h1 class>Carbon Dioxide Graph (ppm)</h1>
+            <p>High Co2 levels are a sign of poorly regulated air quality. This can cause <strong>headaches, fatigue, and even stress.</strong> 
+                Workers can become more irritable which can lead to poor <strong>decision-making and increased stress levels</strong>. Using SAMBA data
+            that tracks your workplace <strong>Aerate</strong> can help you visualise the Co2 levels in your office with our Live Dashboard. In doing <source>
+        you can see how the co2 levels are changing and you can know when to step out of the office for fresh air.</p>
+            </p>
+        </div>
+    </header>
+        <div id="splChart"></div>
+        <header>
+        <div>
+            <h1 class>Sound Level (SPL)</h1>
+            <p>High sound levels contribute to <strong>overstimulation</strong> and stress leaving you tired by the end of the day. SAMBDA sensors track noise activity in your office and
+                <strong>Aerate</strong> uses this data to help you visualise the sound levels in your office with our Live Dashboard. In doing so, you can see how the sound levels are changing and
+                you can know when to put on headphones and earplugs to help you relax.</p>
+            </p>
+        </div>
+    </header>
+        <div id="taChart"></div>
+        <header>
+        <div>
+            <h1 class>Air Temperature Graph (°C)</h1>
+            <p>High air temperatures can lead to <strong>discomfort and fatigue</strong>, making it hard to focus. SAMBA sensors track the temperature in your office and
+                <strong>Aerate</strong> graphs this data to help you understand the temperature levels in your office with our Live Dashboard. In doing so, you can see how the temperature is changing and
+                you can know when to adjust the thermostat or open a window for fresh air.</p>
+            </p>
+        </div>
+    </header>
+        <div id="ppdChart"></div>
+            </div>
+    </div>
+
+    <header>
+        <div>
+            <h1 class>Powered by SAMBA Data ⚡</h1>
+            <p>Aerate partners with the Indoor Environmental Quality (IEQ) Lab using their low cost sensors distributed in your offices. We're able to 
+                provide real-time data that powers our dashboard and helps you understand your indoor environment.</p>
+        </div>
+        <div class="video-section">
+        <video width="100%" height="100%" autoplay loop muted>
+            <source src="rawDataVideo.mp4" type="video/mp4">
+        </video>
+    </div>
+    
+    </header>
+    <header>
+        <div>
+            <h1 class>Real Time Data 📈</h1>
+            <p>The IEQ Lab developed SAMBA, a  system that tracks these  variables:
+                <ul>
+            <li>Air Temperature</li>
+            <li>Humidity</li>
+            <li>Airspeed</li>
+            <li>CO₂ Levels</li>
+            <li>Sound Pressure Levels</li>
+            <li>Particulate Matter</li>
+            <li>Light Levels</li>
+            </ul>
+            </p>
+            </p>
+        </div>
+        <div class="video-section">
+        <video width="100%" height="100%" autoplay loop muted>
+            <source src="pivottableVideo.mp4" type="video/mp4">
+        </video>
+    </div>
+    </header>
+
+    <!-- ✨ TABS ADDED HERE -->
+    <nav class="mode-tabs">
+        <ul>
+            <li class="active">Orchestrator</li>
+            <li>Architect</li>
+            <li>Code</li>
+            <li>Debug</li>
+        </ul>
+        <div class="mode-description">
+            <strong>Orchestrator Mode:</strong> Breaks complex projects into delegated subtasks
+        </div>
+    </nav>
+    <!-- ✨ END TABS -->
+     <script>
+    const tabs = document.querySelectorAll(".mode-tabs li");
+    const description = document.querySelector(".mode-description");
+
+    const descriptions = {
+        "Orchestrator": "Orchestrator Mode: Breaks complex projects into delegated subtasks",
+        "Architect": "Architect Mode: Designs modular systems for scale and flexibility",
+        "Code": "Code Mode: Implements functionality in optimized, readable code",
+        "Debug": "Debug Mode: Finds and resolves issues efficiently"
+    };
+
+    tabs.forEach(tab => {
+        tab.addEventListener("click", () => {
+            tabs.forEach(t => t.classList.remove("active"));
+            tab.classList.add("active");
+
+            const mode = tab.textContent.trim();
+            description.innerHTML = `<strong>${mode} Mode:</strong> ${descriptions[mode].split(": ")[1]}`;
+        });
+    });
+</script>
+
     <script src="../A1/script.js"></script>
 </body>
+
+</html>

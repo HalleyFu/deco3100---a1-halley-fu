@@ -1,70 +1,153 @@
-/* Assuming the image has a class "workspace" */
-
-.mainText {
-    font-family: Arial, sans-serif; /* Use a clean font */
-    line-height: 1.6; /* Improve readability */
-    margin: 20px; /* Add some margin */
-    margin-left: 100px; /* Add left margin for alignment */
-    margin-right: 100px;
-    color: #333; /* Dark text color */
+body {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    color: #111;
 }
 
-/* Container holding the image and the text */
-/* Container holding the image and the text */
-.container {
-    position: relative; /* Establish a positioning context for absolutely positioned children */
-    text-align: center; /* Center-align text */
-    color: black; /* Default text color */
+header {
+    padding: 60px 400px 30px;
 }
 
-.workspace {
-    width: 100%;
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 20px auto;
-    z-index: 1; /* Ensure the image is below the text */
-    position: relative; /* Ensure the image doesn't interfere with absolute positioning */
+.logo {
+    position: sticky;
+    font-weight: bold;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    
 }
 
-.bottom-left {
-    position: absolute;
-    bottom: 10px;
-    left: 10px;
-    z-index: 2; /* Ensure the text is above the image */
-    color: white; /* Make text visible if the image is dark */
-}
-
-.top-left {
-    position: absolute;
-    top: 10px;
-    left: 10px;
-    z-index: 2;
+.logo-icon {
+    background: black;
     color: white;
+    font-weight: bold;
+    padding: 5px;
+    margin-right: 10px;
 }
 
-.top-right {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    z-index: 2;
+h1 {
+    font-size: 28px;
+    margin: 20px 0 10px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.cta {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-top: 20px;
+}
+
+.cta button {
+    background-color: black;
     color: white;
+    border: none;
+    padding: 10px 16px;
+    font-size: 14px;
+    border-radius: 6px;
+    cursor: pointer;
 }
 
-.bottom-right {
-    position: absolute;
-    bottom: 10px;
-    right: 10px;
-    z-index: 2;
-    color: white;
+.cta select {
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
 }
 
-.centered {
-    font-size: 60px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%); /* Center the text */
-    z-index: 2;
-    color: blue;
+.image-section {
+    margin-top: 40px;
+    text-align: center;
 }
+
+.image-section img {
+    max-width: 90%;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+
+.chart-section {
+    padding: 40px 60px;
+    font-family: system-ui, sans-serif;
+}
+
+.chart-section > div {
+    margin-bottom: 40px;
+}
+
+.filter-buttons {
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.filter-buttons button {
+    color: black;
+    margin: 0 10px;
+    padding: 10px 16px;
+    font-size: 14px;
+    background-color: #f1f1f1;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.filter-buttons button:hover {
+    background-color: #ddd;
+}
+.video {
+  width: 200px;
+  position: relative;
+}
+
+/* ✨ TABS ADDED HERE */
+.mode-tabs {
+    font-family: system-ui, sans-serif;
+    background-color: #f8f8f8;
+    border-bottom: 1px solid #ddd;
+    padding: 0 90px;
+}
+
+.mode-tabs ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    border-bottom: 1px solid #ddd;
+}
+
+.mode-tabs li {
+    padding: 14px 20px;
+    cursor: pointer;
+    color: #555;
+    font-weight: 500;
+    transition: all 0.2s ease;
+}
+
+.mode-tabs li:hover {
+    background-color: #eaeaea;
+    color: black;
+}
+
+.mode-tabs li.active {
+    border-bottom: 3px solid black;
+    font-weight: bold;
+    color: black;
+    background-color: white;
+}
+
+.mode-description {
+    padding: 12px 0;
+    font-size: 14px;
+    color: #333;
+}
+/* ✨ END TABS */
+
