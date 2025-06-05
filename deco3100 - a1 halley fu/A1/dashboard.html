@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>IEQ Dashboard</title>
+    <link rel="stylesheet" href="dashboard_styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+</head>
+
+<body>
+    <div class="left-section">
+        <div class="ieq-logo">
+            <span class="ieq-logo-icon">IEQ</span>
+            <span class="ieq-logo-text">Aerate</span>
+        </div>
+
+
+        <h1 class="summary-heading">Live Air Quality Summary of your office</h1>
+        <p class="level-text">Level 27 (Location Tracking via SAMBA monitors)</p>
+
+        <div class="environment-advice-container">
+            <div class="environment-advice-header">
+                <span>Environment</span>
+            </div>
+
+            <div class="summary-item">
+                <div class="summary-value-circle">28°C</div>
+                <div class="summary-advice">Go outside. Too hot.</div>
+            </div>
+
+            <div class="summary-item">
+                <div class="summary-value-circle">60db</div>
+                <div class="summary-advice">Too loud. Earplugs required.</div>
+            </div>
+
+            <div class="summary-item">
+                <div class="summary-value-circle">989ppm</div>
+                <div class="summary-advice">Go outside. Too much Co2.</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="chart-section">
+        <h1>Daily Graphs</h1>
+        <div class="filter-buttons">
+            <button id="btn-morning">Morning (9–12)</button>
+            <button id="btn-noon">Noon (12–15)</button>
+            <button id="btn-afternoon">Afternoon (15–17)</button>
+            <button id="btn-day">Full Day (9–17)</button>
+        </div>
+
+
+        <div id="chart-text">
+            <div id="co2Chart"></div>
+            <header>
+            </header>
+            <div id="splChart"></div>
+            <header>
+            </header>
+            <div id="taChart"></div>
+            <header>
+            </header>
+        </div>
+    </div>
+
+
+    <script src="../A1/script.js"></script>
+</body>
+
+</html>

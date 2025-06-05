@@ -1,0 +1,195 @@
+/* General Page Styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex; /* Use flexbox for the main layout */
+    justify-content: flex-start; /* Align main content to the left */
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+/* Left Section - New Styles */
+.left-section {
+    width: 30vw; /* Take up 30% of the screen width for the left side */
+    min-width: 300px; /* Minimum width to prevent content from scrunching */
+    padding: 20px;
+    background-color: #ffffff;
+    border-right: 1px solid #ccc;
+    box-shadow: 4px 0 10px rgba(0, 0, 0, 0.05);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 30px; /* Space between main elements in the left section */
+}
+
+.ieq-logo {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px; /* Space below the logo */
+}
+
+.ieq-logo-icon {
+    background: black;
+    color: white;
+    font-weight: bold;
+    padding: 5px 8px;
+    margin-right: 5px;
+    font-size: 20px;
+    border-radius: 3px;
+}
+
+.ieq-logo-text {
+    font-weight: bold;
+    font-size: 20px;
+    color: #333;
+}
+
+.summary-heading {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+.level-text {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 30px;
+}
+
+.environment-advice-container {
+    width: 100%;
+}
+
+.environment-advice-header {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
+    margin-bottom: 15px;
+    padding: 0 10px;
+}
+
+.summary-advice {
+    font-size: 18px;
+    color: #333;
+    flex-grow: 1; /* Allow advice text to take available space */
+    margin-left: 200px; /* Adjust this value to control the indent of the text */
+    margin-left: 0; /* Align text to the end of the container */
+}
+
+/* Keep the existing .summary-value-circle and .summary-item styles as they are,
+   or revert any previous changes made to them for indenting the whole box. */
+.summary-value-circle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    font-size: 28px;
+    font-weight: bold;
+    color: black;
+    margin-right: 20px; /* This creates space between the circle and the text */
+    flex-shrink: 0;
+}
+
+.summary-item {
+    display: flex;
+    align-items: center;
+    background-color: #f9f9f9;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    padding: 15px; /* Keep padding for internal spacing of the box */
+    margin-bottom: 15px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.03);
+    /* Remove any 'padding-left' or 'justify-content' you might have added here for the whole item */
+}
+
+
+/* Chart Section Container on right */
+.chart-section {
+    width: 90vw; /* Take up 70% of the screen width */
+    max-width: 3000px;
+    height: 100vh;
+    overflow-y: auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: -4px 0 10px rgba(0, 0, 0, 0.05);
+}
+
+/* Button Section */
+.filter-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 30px;
+}
+
+.filter-buttons button {
+    padding: 10px 18px;
+    font-size: 14px;
+    border: none;
+    border-radius: 6px;
+    background-color: #0077cc;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.filter-buttons button:hover {
+    background-color: #005fa3;
+}
+
+/* Chart Container */
+#chart-text {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+/* Individual Chart Styling */
+#co2Chart,
+#splChart,
+#taChart,
+#ppdChart {
+    height: 400px;
+    width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: #fafafa;
+}
+
+/* Responsive Design for Small Screens */
+@media (max-width: 768px) {
+    body {
+        flex-direction: column; /* Stack elements vertically on small screens */
+    }
+
+    .left-section,
+    .chart-section {
+        width: 100vw;
+        height: auto; /* Allow height to adjust */
+        border-right: none;
+        box-shadow: none;
+    }
+
+    .chart-section {
+        border-top: 1px solid #ccc;
+    }
+
+    .filter-buttons {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #co2Chart,
+    #splChart,
+    #taChart,
+    #ppdChart {
+        height: 300px;
+    }
+}
+

@@ -69,7 +69,7 @@ function drawCharts(filteredData) {
         annotations: [{
             x: '14:00:00',
             y: 1005,
-            text: "CO₂ often exceeds 1000 ppm after lunch — enough to impair decision-making.",
+            text: "1000PPM is when you start to feel drowsy",
             showarrow: true,
             arrowhead: 10,
             ax: 0,
@@ -172,43 +172,7 @@ function drawCharts(filteredData) {
         }]
     });
 
-    // PPD Chart
-    Plotly.newPlot(ppdDiv, [{
-        x: time,
-        y: ppd,
-        name: "PPD",
-        mode: currentMode,
-        line: { color: "pink" },
-        marker: { color: "red" },
-        customdata: temp.map((t, i) => [t, humidity[i]]),
-        hovertemplate:
-            '<b>Time:</b> %{x}<br>' +
-            '<b>Temperature:</b> %{customdata[0]} °C<br>' +
-            '<b>CO₂ Level:</b> %{y} ppm<br>' +
-            '<b>Humidity:</b> %{customdata[1]}%<br><extra></extra>'
-    }], {
-        title: "PPD over Time",
-        xaxis: { title: "Time (hh:mm:ss)" },
-        yaxis: { title: "PPD (%)" },
-        updatemenus: [{
-            buttons: [
-                { args: ['mode', 'lines+markers'], label: 'Lines & Markers', method: 'restyle' },
-                { args: ['mode', 'lines'], label: 'Lines', method: 'restyle' },
-                { args: ['mode', 'markers'], label: 'Markers', method: 'restyle' }
-            ],
-            direction: "left",
-            showactive: true,
-            type: "buttons",
-            x: 0.3,
-            y: 1.2,
-            xanchor: "left",
-            yanchor: "top",
-            pad: { t: 10, r: 10 },
-            bgcolor: 'white',
-            bordercolor: 'black',
-            borderwidth: 1
-        }]
-    });
+   
 }
 
 // Time filter buttons

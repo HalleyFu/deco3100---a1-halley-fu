@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    padding: 60px 400px 30px;
+    padding: 10px 400px 30px;
 }
 
 .nav
@@ -113,7 +113,6 @@ p {
   position: relative;
 }
 
-/* ✨ TABS ADDED HERE */
 .mode-tabs {
     font-family: system-ui, sans-serif;
     background-color: #f8f8f8;
@@ -154,5 +153,4 @@ p {
     font-size: 14px;
     color: #333;
 }
-/* ✨ END TABS */
 

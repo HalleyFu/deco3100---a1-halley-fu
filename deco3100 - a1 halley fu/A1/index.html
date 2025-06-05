@@ -10,97 +10,60 @@
 </head>
 
 <body>
-
-    
-
-    <nav>
+<nav>
         <div class="logo">
         <div class="logo-icon">IEQ</div> Aerate
     </div>
 
+<header>
+        <div>
+            <h1 class>The best indoor air quality dashboard for offices</h1>
+            <p>An office thats louds, hot and stuffy is nothing new.</p>
+            <p>You need a break from this environment, use our dashboard to know exactly when.</p>
+            <p>It's simple and quick. Watch our demo below.</p>
+
+            <div class="cta">
+<button onclick="window.open('dashboard.html', '_blank');">Try Aerate</button>
+                
+            </div>
+        </div>
+    </header>
+
+  <header>
+      <div class="video-section">
+        <video width="100%" height="100%" autoplay loop muted>
+            <source src="dashboardDemo.mp4" type="video/mp4">
+        </video>
+    </div>
+  </header>
+
+    
+
     </nav>
-    <!-- Video -->
+    
+
+    <header>
+        <div>
+            <h1 class>Control how you feel with Aerate.</h1>
+            <!-- Video -->
     <div class="video-section">
         <video width="100%" height="100%" autoplay loop muted>
             <source src="tired_worker.mp4" type="video/mp4">
         </video>
     </div>
-
-    <header>
-        <div>
-            <h1 class>Control how you feel with Aerate.</h1>
             <p>It's a common experience for office employees to finish work and feel tired -
                 with only enough energy to crash, not to thrive. We easily blame this on personal choices like poor sleep or diet
-                - factors we can control. But what if the real cause is something we can’t see. My visualisation uses the SAMBA sensor
+                - factors we can control. But what if the real cause is something we can’t see. My visualisation uses 
+                the SAMBA (Sentient Ambient Monitoring of Buildings in Australia) sensor
                 data to reveal how rising CO2, increasing temperatures, and elevated noise levels - joined together leave workers feeling
                 fatigued before they even leave the office.</p>
         </div>
     </header>
 
-    <header>
-        <div>
-            <h1 class>The best indoor air quality dashboard for offices</h1>
-            <p>SmartAir combines real-time CO₂, noise, and temperature data into one live dashboard.</p>
-            <p>Hover over the graph for more information about each data point.</p>
 
-            <div class="cta">
-                <button>Install YourAir</button>
-                <select>
-                    <option>Demo in 100 seconds</option>
-                    <option>Try Now</option>
-                </select>
-            </div>
-        </div>
-    </header>
-
-    <div class="chart-section">
-        <div class="filter-buttons">
-            <button id="btn-morning">Morning (9–12)</button>
-            <button id="btn-noon">Noon (12–15)</button>
-            <button id="btn-afternoon">Afternoon (15–17)</button>
-            <button id="btn-day">Full Day (9–17)</button>
-        </div>
-
-
-            <div id="chart-text">
-        <div id="co2Chart"></div>
-        <header>
+<header>
         <div>
-            <h1 class>Carbon Dioxide Graph (ppm)</h1>
-            <p>High Co2 levels are a sign of poorly regulated air quality. This can cause <strong>headaches, fatigue, and even stress.</strong> 
-                Workers can become more irritable which can lead to poor <strong>decision-making and increased stress levels</strong>. Using SAMBA data
-            that tracks your workplace <strong>Aerate</strong> can help you visualise the Co2 levels in your office with our Live Dashboard. In doing <source>
-        you can see how the co2 levels are changing and you can know when to step out of the office for fresh air.</p>
-            </p>
-        </div>
-    </header>
-        <div id="splChart"></div>
-        <header>
-        <div>
-            <h1 class>Sound Level (SPL)</h1>
-            <p>High sound levels contribute to <strong>overstimulation</strong> and stress leaving you tired by the end of the day. SAMBDA sensors track noise activity in your office and
-                <strong>Aerate</strong> uses this data to help you visualise the sound levels in your office with our Live Dashboard. In doing so, you can see how the sound levels are changing and
-                you can know when to put on headphones and earplugs to help you relax.</p>
-            </p>
-        </div>
-    </header>
-        <div id="taChart"></div>
-        <header>
-        <div>
-            <h1 class>Air Temperature Graph (°C)</h1>
-            <p>High air temperatures can lead to <strong>discomfort and fatigue</strong>, making it hard to focus. SAMBA sensors track the temperature in your office and
-                <strong>Aerate</strong> graphs this data to help you understand the temperature levels in your office with our Live Dashboard. In doing so, you can see how the temperature is changing and
-                you can know when to adjust the thermostat or open a window for fresh air.</p>
-            </p>
-        </div>
-    </header>
-        <div id="ppdChart"></div>
-            </div>
-    </div>
-
-    <header>
-        <div>
-            <h1 class>Powered by SAMBA Data ⚡</h1>
+            <h1 class>Powered by SAMBA Data ⚡</h1> <!-- this now follows the logo so it can explain what samba is -->
             <p>Aerate partners with the Indoor Environmental Quality (IEQ) Lab using their low cost sensors distributed in your offices. We're able to 
                 provide real-time data that powers our dashboard and helps you understand your indoor environment.</p>
         </div>
@@ -113,8 +76,8 @@
     </header>
     <header>
         <div>
-            <h1 class>Real Time Data 📈</h1>
-            <p>The IEQ Lab developed SAMBA, a  system that tracks these  variables:
+            <h1 class>Hidden Variables 📈</h1>
+            <p>The IEQ Lab developed SAMBA, a  system that tracks these insvisible variables:
                 <ul>
             <li>Air Temperature</li>
             <li>Humidity</li>
@@ -134,40 +97,92 @@
     </div>
     </header>
 
-    <!-- ✨ TABS ADDED HERE -->
-    <nav class="mode-tabs">
-        <ul>
-            <li class="active">Orchestrator</li>
-            <li>Architect</li>
-            <li>Code</li>
-            <li>Debug</li>
-        </ul>
-        <div class="mode-description">
-            <strong>Orchestrator Mode:</strong> Breaks complex projects into delegated subtasks
+    
+
+        
+
+<div id="chart-text"></div>
+            
+        
+        <header>
+            <h1>Learn about the Hidden Factors - See the changes with our graphs</h1>
+            <div class="video-section">
+        <video width="100%" height="100%" autoplay loop muted>
+            <source src="hiddenvideo.mp4" type="video/mp4"> <!-- represents seeing hidden factors https://www.pexels.com/video/video-of-a-person-spying-6620871/-->
+        </video>
+    </div>
+
+    <div class="filter-buttons">
+            <button id="btn-morning">Morning (9–12)</button>
+            <button id="btn-noon">Noon (12–15)</button>
+            <button id="btn-afternoon">Afternoon (15–17)</button>
+            <button id="btn-day">Full Day (9–17)</button>
         </div>
-    </nav>
-    <!-- ✨ END TABS -->
-     <script>
-    const tabs = document.querySelectorAll(".mode-tabs li");
-    const description = document.querySelector(".mode-description");
 
-    const descriptions = {
-        "Orchestrator": "Orchestrator Mode: Breaks complex projects into delegated subtasks",
-        "Architect": "Architect Mode: Designs modular systems for scale and flexibility",
-        "Code": "Code Mode: Implements functionality in optimized, readable code",
-        "Debug": "Debug Mode: Finds and resolves issues efficiently"
-    };
+        <div>
+            <h2 class>CO2 The Silent Killer</h2>
+            <p>High CO2 levels are a sign of poorly regulated air quality. This can cause <strong>headaches, fatigue, 
+                and even stress</strong> (AirGradient, 2025; Clairify, 2023; CO2Meter, n.d.). Workers can become more irritable, 
+                which can lead to poor decision-making and increased stress levels (Disruptive Technologies, 2022; uHoo, 2025). 
+                High CO2 concentrations have also been linked to reduced cognitive performance, <strong>including impaired concentration and 
+                decision-making</strong> (Castus, 2025; Tektelic, 2024). Using SAMBA data that tracks your workplace, Aerate can help 
+                you visualise the CO2 levels in your office with our Live Dashboard. In doing so, you can see how the CO2 levels 
+                are changing and you can know when to step out of the office for fresh air.
 
-    tabs.forEach(tab => {
-        tab.addEventListener("click", () => {
-            tabs.forEach(t => t.classList.remove("active"));
-            tab.classList.add("active");
+</p>
+            </p>
+        </div>
+        <div id="co2Chart"></div>
+    </header>
 
-            const mode = tab.textContent.trim();
-            description.innerHTML = `<strong>${mode} Mode:</strong> ${descriptions[mode].split(": ")[1]}`;
-        });
-    });
-</script>
+    
+        <header>
+        <div>
+            <h2 class>The Office Humdrum</h2>
+            <p>High sound levels contribute to overstimulation and stress, leaving you tired by the end of the day. 
+                Research indicates that prolonged exposure to a noisy work environment can lead to heightened stress 
+                levels, reduced concentration, emotional fatigue, and increased irritability (Health Assured, 2025; 
+                TalktoAngel, 2025). The brain constantly attempts to filter out irrelevant auditory stimuli, an effort 
+                that can lead to <strong>cognitive overload</strong> and fatigue (TalktoAngel, 2025). 
+                SAMBDA sensors track noise activity in your office and Aerate uses this data to visualise 
+                the sound levels. In doing so, you can see how the sound levels 
+                are changing and you can know when to put on headphones and earplugs to help you relax.
+
+</p>
+            </p>
+        </div>
+        <div id="splChart"></div>
+    </header>
+
+            
+
+        
+        <header>
+        <div>
+
+            <h2 class>Air Temperature: The first suspect</h2>
+            <p>High air temperatures can lead to discomfort and fatigue, making it hard to focus. 
+                Studies have shown that when office temperatures exceed the optimal range, cognitive 
+                functions begin to decline, <strong>affecting focus, concentration, and decision-making</strong> 
+                (DBH Group, 2025; Symphony, 2025). Prolonged exposure to high temperatures also 
+                contributes to increased stress and irritability (Symphony, 2025). 
+                The physical discomfort caused by excessive heat can cause discomfort and lead to decreased productivity (Lamina Heat, 2024). 
+                SAMBA sensors track the temperature in your office and Aerate graphs this data to help 
+                you understand the temperature levels in your office with our Live Dashboard. In doing so, 
+                you can see how the temperature is changing and you can know when to adjust the thermostat 
+                or open a window for fresh air.
+
+</p>
+            </p>
+        </div>
+        <div id="taChart"></div>
+    </header>
+
+            
+    </div>
+
+    
+
 
     <script src="../A1/script.js"></script>
 </body>
